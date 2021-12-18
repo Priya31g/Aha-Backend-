@@ -1,7 +1,6 @@
 {
   "data": [
     {
-      "id": 1,
       "categories": "movie",
       "premium": true,
       "title": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Title/Color%20photo.png?raw=true",
@@ -33,7 +32,7 @@
           "pic": "https://imageory.clapnumber.com/albums/large/1605787217.DivyaSripada.jpg"
         }
       ],
-      "Similar": [
+      "similar": [
         {
           "imageurl": "https://m.media-amazon.com/images/M/MV5BNTk1MWI0NTQtNjA1ZC00ZjgyLWFlNTQtMjY1Mzc2YzNhYmZmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg",
           "genre": ["Action"],
@@ -177,7 +176,6 @@
       ]
     },
     {
-      "id": 2,
       "categories": "shows",
       "premium": true,
       "title": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Title/shit%20happens.png?raw=true",
@@ -209,7 +207,7 @@
           "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aU0NyMrdtuMp7XEwD-0MeAFR24XDSE9zjg&usqp=CAU"
         }
       ],
-      "Similar": [
+      "similar": [
         {
           "imageurl": "https://m.media-amazon.com/images/M/MV5BYTJmMGZmMTMtN2Q4Ny00ODhjLTkzYmUtNDM3MDIxODY2OWZmXkEyXkFqcGdeQXVyNDMzNDEzNzA@._V1_UY268_CR3,0,182,268_AL_.jpg",
           "genre": ["Drama"],
@@ -404,6 +402,5 @@
         }
       ]
     }
-  ],
-  "watchList": []
+  ]
 }
