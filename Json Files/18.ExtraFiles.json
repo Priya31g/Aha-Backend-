@@ -1,0 +1,411 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "categories": "movie",
+      "premium": true,
+      "title": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/title_logo_p.svg",
+      "metaData": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/metadata.svg",
+      "description": " A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama",
+      "main_bg": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/aee023eb0f5f4503eb11737ad0dda99e5862da69/watchPage/watch-page/src/media/main_div_watch_1.svg",
+      "tags": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/tags.svg",
+      "play": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/Startwatcing.svg",
+      "watchlist_tile": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/ca3237588afaca2d315ed66e2e1777e1c6992585/watchPage/watch-page/src/media/watchlist_show1.svg",
+      "tile_name": "Color Photo",
+      "cast": [
+        {
+          "name": "Suhas Pogalu",
+          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+        },
+        {
+          "name": "Chandini Chowdary",
+          "pic": "https://industryhit.com/t/wp-content/gallery/ks-water-mark-3/Chandini-Chowdary-latest-1.jpg"
+        },
+        {
+          "name": "Sunil",
+          "pic": "https://www.filmibeat.com/ph-big/2016/10/sunil-telugu-actor_147557369230.jpg"
+        },
+        {
+          "name": "Harsha Chemudu",
+          "pic": "https://m.media-amazon.com/images/M/MV5BOWVlZDZjMWUtYzQ0Yi00ZGJiLWE0NjAtYjJkNWRlOTc1YjEzXkEyXkFqcGdeQXVyNDAzNDk0MTQ@._V1_.jpg"
+        },
+        {
+          "name": "Divya Sripada",
+          "pic": "https://imageory.clapnumber.com/albums/large/1605787217.DivyaSripada.jpg"
+        }
+      ],
+      "Similar": [
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BNTk1MWI0NTQtNjA1ZC00ZjgyLWFlNTQtMjY1Mzc2YzNhYmZmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg",
+          "genre": ["Action"],
+          "imdbid": "tt9768594",
+          "title": "Nene mukyamantri",
+          "imdbrating": 4.6,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "The movie will begin with a bump in the court of Chief Minister who rules the state politics. The current chief minister can not help him, but he does not want to help a star hero when he ..."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BOTVlNzJiZDEtMDlhYi00YmQ1LWI4YjItZTJkZDcxZmEwYzc4XkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+          "genre": ["Comedy", "Drama", "Romance"],
+          "imdbid": "tt9680602",
+          "title": "Kothaga Maa Prayanam",
+          "imdbrating": 6.8,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "Kothaga Maa Prayanam is about Karthik \"Priyanth\" who is a playboy and doesn't believe in marriage and love. He proposes Keerthi \"Yamini Bhaskar\", a new employee at his office to start a ..."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BYzE5ODA2NTktYmY4Ny00ZTdhLTljNWYtNjZjNzA0Yjc4NmYzXkEyXkFqcGdeQXVyODMyMzIzMDk@._V1_UY268_CR5,0,182,268_AL_.jpg",
+          "genre": ["Romance"],
+          "imdbid": "tt9680090",
+          "title": "Thipparaa Meesam (Telugu)",
+          "imdbrating": 5.6,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "An extremely talented DJ working in a local night pub, who is also a spoiled brat, gets involved in an adventure where he must fight against all odds to survive."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BYjZlN2UwYmEtMmRkOC00NzViLWFjMWEtOGY2YTBmNjZlNTVmXkEyXkFqcGdeQXVyMzc4ODk0NTc@._V1_UY268_CR4,0,182,268_AL_.jpg",
+          "genre": ["Action", "Comedy"],
+          "imdbid": "tt9675464",
+          "title": "Gang Leader",
+          "imdbrating": 7.7,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "Nani plays the gang leader of five women belonging to different age groups, helping them to plot revenge."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMWFlNDdlM2EtMGFlMS00NTViLWJlZGEtMjVhNjJiNGI1YjdlXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UY268_CR3,0,182,268_AL_.jpg",
+          "genre": ["Action", "Crime", "Thriller"],
+          "imdbid": "tt9670480",
+          "title": "Gaddalakonda Ganesh",
+          "imdbrating": 6.6,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "An aspiring filmmaker who wants to direct a realistic story, stumbles upon a menacing villain and to learn the nitty-gritties of the villain's character, he puts his and his friend's life on the line."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMjNkM2M1YTItYjUwZC00NmFiLWFiMzgtY2I1YWU4ZGQ0YmJjXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+          "genre": ["Action", "Romance"],
+          "imdbid": "tt9665402",
+          "title": "Sita",
+          "imdbrating": 4.9,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "A four-year-old Ram is left in a monastery by a person named Anand Mohan and is promised that Sita will come to take care of him. Ram is innocent and cute. He makes Ram promise that he too,..."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMjk1NGVlYjQtY2Y1MS00NTlhLThjMzktZjY3NTMwNTUxYmY3XkEyXkFqcGdeQXVyNjM0NDc1MzM@._V1_UY268_CR16,0,182,268_AL_.jpg",
+          "genre": ["Drama", "Romance"],
+          "imdbid": "tt9636910",
+          "title": "I Love You",
+          "imdbrating": 4.6,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "When Santu meets Dharmika after few years of romantic college life, will he win the lost love, or is there something surprise round the corner."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BZTlhOTdjMDktYjU3MC00NDg1LTgwMGUtZDljZTU4MDU3ZmYyXkEyXkFqcGdeQXVyNzgwOTYzNDY@._V1_UY268_CR123,0,182,268_AL_.jpg",
+          "genre": ["Comedy", "Romance"],
+          "imdbid": "tt9610354",
+          "title": "Ninnu Thalachi",
+          "imdbrating": 5.9,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "Abhiram (Vamsi Yakasiri) is a happy-go-lucky guy, who falls in love at first sight with a girl named Ankitha tries very hard to explain his feeling to her. On the other hand, she loves ..."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BZTU2NzJmYjgtNzAzZi00NzE4LTgyZDUtODJlY2FjYzZhYTA0XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR4,0,182,268_AL_.jpg",
+          "genre": ["Action", "Comedy", "Drama"],
+          "imdbid": "tt9564774",
+          "title": "Venky Mama",
+          "imdbrating": 5.5,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "A story of nephew and a son which revolves around their emotions and village drama and army based story."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMDVhMTk2MjktMDUwYy00MWU0LTgwZTYtMDMxZjQ5MDUxNmQ3XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg",
+          "genre": ["Action", "Crime", "Sci-Fi"],
+          "imdbid": "tt9558468",
+          "title": "iSmart Shankar",
+          "imdbrating": 5.6,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "iSmart Shankar, starring Ram Pothineni and directed by Puri Jagannadh revolves around a hero who has another man's memory transferred into his head."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BZjg5ZjNkOGItYWMwMi00NjhiLWFmYzYtYWZhYmQxYTA4MmNjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_UY268_CR4,0,182,268_AL_.jpg",
+          "genre": ["Action", "Crime", "Drama"],
+          "imdbid": "tt9537082",
+          "title": "Ranarangam",
+          "imdbrating": 6.1,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "Deva (Sharwanand) is a powerful gangster from Visakhapatnam who moves to Spain to put his past behind him. But what happens when he realises he can't shake off his enemies no matter where he goes?"
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMjEzMmZmNGItMGFjNi00ZGEwLWFkODMtYjdkYmYyMmRmYjE1XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR14,0,182,268_AL_.jpg",
+          "genre": ["Comedy", "Romance"],
+          "imdbid": "tt9468644",
+          "title": "Suryakantham",
+          "imdbrating": 5.6,
+          "released": 2019,
+          "type": "movie",
+          "synopsis": "Suryakantam is the story of an eccentric girl who turns everyone's worlds upsimdbide down."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BOTQ5MGJjMzItM2ZmYi00MzVlLThkNmMtYTFjMmQ5YTVlYWJlXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+          "genre": ["Action", "Crime", "Drama"],
+          "imdbid": "tt9304360",
+          "title": "Ayogya",
+          "imdbrating": 6.2,
+          "released": 2019,
+          "synopsis": "A corrupt police officer finds his life changing when he takes on a case of gang rape.",
+          "type": "movie"
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMThhYWQwMzUtYzZkYi00MjI0LWE5NzctMWRiNDc0NWI0Y2UyXkEyXkFqcGdeQXVyOTM2NjQ1OTE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+          "genre": ["Action", "Drama"],
+          "imdbid": "tt9271358",
+          "title": "Bailampudi",
+          "imdbrating": 6.8,
+          "released": 2019,
+          "synopsis": "Ravi (Harish Vinay), an auto driver falls for Kalyani (Tanishq Rajan) who happens to be the daughter of the village head Guru Narayan( Brahmanandareddy). The twist in the tale arises when Guru Narayan gets killed by Ravi. During his last breath, he reveals a secret about Kalyani which leaves Ravi stunned.",
+          "type": "movie"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "categories": "shows",
+      "premium": true,
+      "title": "Shit Happens",
+      "metaData": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/metadata.svg",
+      "description": "Unable to take the constant humiliation from collegemates who call them dry batch, three friends – Harsha, Sameer and Sathvik – hire a hooker to prove their cool quotient. Things take an unexpected turn when she dies...",
+      "main_bg": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/aee023eb0f5f4503eb11737ad0dda99e5862da69/watchPage/watch-page/src/media/main_div_watch_1.svg",
+      "tags": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/tags.svg",
+      "play": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/Startwatcing.svg",
+      "watchlist_tile": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/ca3237588afaca2d315ed66e2e1777e1c6992585/watchPage/watch-page/src/media/watchlist_show1.svg",
+      "tile_name": "Shit happens",
+      "cast": [
+        {
+          "name": "1. Hooker??",
+          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+        },
+        {
+          "name": "2. Shit Happened",
+          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+        },
+        {
+          "name": "3. Escaped",
+          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+        },
+        {
+          "name": "4. Jaammmmmm",
+          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+        },
+        {
+          "name": "5. Chalo bangkok",
+          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+        }
+      ],
+      "Similar": [
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BYTJmMGZmMTMtN2Q4Ny00ODhjLTkzYmUtNDM3MDIxODY2OWZmXkEyXkFqcGdeQXVyNDMzNDEzNzA@._V1_UY268_CR3,0,182,268_AL_.jpg",
+          "genre": ["Drama"],
+          "imdbid": "tt8909120",
+          "title": "Gulf",
+          "imdbrating": 9.1,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "While many harrowing tales have come forth through news reports of how Indians choosing to work in Gulf countries face inhumane treatment, 'Gulf' charts the journey of Shiva (Chetan) and ..."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMzU5ZDA5YmYtN2RhMS00NDQyLTlhNmItODlmZDA1ZWMxMTFjXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+          "genre": ["Drama", "Mystery"],
+          "imdbid": "tt8073108",
+          "title": "Napoleon",
+          "imdbrating": 6.9,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "The curious case of a missing shadow. Napoleon (Anand Ravi) visits a police station and lodges a complaint that his shadow is missing. This unique case becomes the talk of the town. ..."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BNmE4NzllNGMtNjM0Yi00NzIzLWE4MzMtYWYxMGRkM2RlYjAyXkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_UY268_CR4,0,182,268_AL_.jpg",
+          "genre": ["Drama", "Fantasy", "Romance"],
+          "imdbid": "tt7998110",
+          "title": "Angel",
+          "imdbrating": 6,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "A man is shocked when the antique imdbidol that he is trying to smuggle out of the country suddenly comes to life."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BOGFkYzkzODktYTNjMC00ZmY0LTkzODgtOWJkZTE0OGU2ZGNiXkEyXkFqcGdeQXVyNzYxMDE3NDE@._V1_UY268_CR147,0,182,268_AL_.jpg",
+          "genre": ["Drama"],
+          "imdbid": "tt7981494",
+          "title": "Sekharam Gari Abbayi",
+          "imdbrating": 7.6,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": ""
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BNTdlNWQzZjYtNWExZS00NjgwLWFjY2YtYTk4ZDJlZGNmMmM3XkEyXkFqcGdeQXVyNzYxMDE3NDE@._V1_UY268_CR229,0,182,268_AL_.jpg",
+          "genre": ["Drama"],
+          "imdbid": "tt7981440",
+          "title": "Lacchi",
+          "imdbrating": 4.9,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": ""
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BNjM4YjZmNmItNDA3YS00NTcyLWFlYmEtODMwZjRjZjRjYzViXkEyXkFqcGdeQXVyNzYxMDE3NDE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+          "genre": ["Action", "Drama"],
+          "imdbid": "tt7981438",
+          "title": "Devi Sri Prasad",
+          "imdbrating": 5.8,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "A group of three close friends, including Devi, Sri and Prasad live a happy life and when everything seems as well for them, a major car accimdbident involving the popular heroine, Leela, ..."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BN2U5ZWMzNzUtNjVlMS00ZDMzLWJjNWYtODc3ODViN2YzMzRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+          "genre": ["Drama"],
+          "imdbid": "tt7905892",
+          "title": "Dr. Chakravarty",
+          "imdbrating": 4.9,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "Anirudh singh is a real cop of up Police he's playing a police officer role in this movie"
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BNzY2YjcwNjItNjM4ZS00NTZjLTk4MDUtMzExZDgxMTFiNjAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg",
+          "genre": ["Drama", "Romance"],
+          "imdbid": "tt7905602",
+          "title": "Kala Varam Aaye",
+          "imdbrating": 7.1,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "Raghav,the male protagonist in the story has an unique disorder of dreaming every time he goes into a sleep and speaking about the dream out. just like every other night,he gets into a ..."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BODdmNzIxYWMtNWY5Ny00YmJiLWExYWYtM2MzNjZhYzJlODk0XkEyXkFqcGdeQXVyOTUwNjgzMjk@._V1_UY268_CR147,0,182,268_AL_.jpg",
+          "genre": ["Comedy", "Drama", "Romance"],
+          "imdbid": "tt7886860",
+          "title": "Mama O Chandamama",
+          "imdbrating": 5.8,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": ""
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BNDlmNDUzMDUtNTM1Mi00MDA2LWEwNzktMjM3N2M1OWE2YTgzXkEyXkFqcGdeQXVyMjM5NDY4NzU@._V1_UY268_CR0,0,182,268_AL_.jpg",
+          "genre": ["Action", "Drama", "Thriller"],
+          "imdbid": "tt7770176",
+          "title": "Thittivasal",
+          "imdbrating": 7.6,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "A Collector, a cop and a minister want to displace a community of tribal people from their mountain homes for their personal gains."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BYjUyZGY4NDQtOGE5My00M2EzLWE0ZGEtMmQwNTgxNjBmYmUxXkEyXkFqcGdeQXVyMTU4MjkxODU@._V1_UY268_CR3,0,182,268_AL_.jpg",
+          "genre": ["Drama", "Romance"],
+          "imdbid": "tt7684228",
+          "title": "MalliRaava",
+          "imdbrating": 8,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "Karthik and Anjali meet each other in three different phases of their life. In each phase, both develop a bond, get close to each other, but eventually part ways."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMTc5YWJmYTYtMmE1Mi00NDA3LTlhYWMtMTE3NTRjMjEwMjQ0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+          "genre": ["Comedy", "Drama", "Romance"],
+          "imdbid": "tt7675422",
+          "title": "Mental Madhilo",
+          "imdbrating": 7.6,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "An indecisive guy who has been rejected by several women, finds himself in a spot when he has to choose between two women."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMGNlZGQxMjItZmExZS00NDM5LWFhZmQtODM0Y2JiMWZkNDZhXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UY268_CR4,0,182,268_AL_.jpg",
+          "genre": ["Drama"],
+          "imdbid": "tt7504256",
+          "title": "Oye Ninne",
+          "imdbrating": 6.5,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "'Oye Ninne' charts the story of Vishnu (Bharat), a young man who aspires to be a farmer while his parents want him to aim for something big. He grows up with his cousin Veda (Srushti Dange)..."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMjE3YmY0ZDUtZmQ1My00NDJmLWJkMDQtMDVmMzUxMzZkMTkzXkEyXkFqcGdeQXVyMjM5NTM5NjM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+          "genre": ["Drama"],
+          "imdbid": "tt7428372",
+          "title": "Darshakudu",
+          "imdbrating": 6.6,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "Mahesh (Ashok) has been dreaming since childhood to become a director. As soon as he gets a chance, Namrata (Eesha Rebba) comes into his life and friendship turns to love."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BYzdhMzA3YjItOGFkMy00ZjljLWFhODMtZDk0MzY2ZjVmOWMxXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+          "genre": ["Drama"],
+          "imdbid": "tt7322816",
+          "title": "Vunnadhi Okate Zindagi",
+          "imdbrating": 6.5,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "It's about friendship between 2 friends and how their life changes when a new girl comes into their life and how their friendship will be impacted upon her arrival."
+        },
+        {
+          "imageurl": "https://m.media-amazon.com/images/M/MV5BMzFhMThiOWItMzRjNC00YzQwLTkyZWItYmJhNzgwYzY1ODI0XkEyXkFqcGdeQXVyNTcyMzkyODg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+          "genre": ["Action", "Drama", "Romance"],
+          "imdbid": "tt7294534",
+          "title": "Arjun Reddy",
+          "imdbrating": 8.1,
+          "released": 2017,
+          "type": "movie",
+          "synopsis": "Arjun Reddy, a short tempered house surgeon gets used to drugs and drinks when his girlfriend is forced to marry another person."
+        }
+      ],
+      "episodes": [
+        {
+          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "ep_title": "1. Hooker??",
+          "duration": "24min",
+          "description": "College buddies Harsha, Sameer and Sathvik realize on their convocation day that they haven’t lived life fully. They decide to take the wild route of hiring a hooker to officially come of age!"
+        },
+        {
+          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "ep_title": "2. Shit Happened",
+          "duration": "21min",
+          "description": "The trio is exploring ways to hire a hooker. Harsha’s cousin gives them tips on how to do it. They succeed, but the hooker unexpectedly dies."
+        },
+        {
+          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "ep_title": "3. Escaped",
+          "duration": "16min",
+          "description": "A plan is being hatched to escape from the complex scenario. Harsha, Sameer and Sathvik manage to sneak out with the hooker’s body, which they plan to dispose."
+        },
+        {
+          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "ep_title": "4. Jaammmmmm",
+          "duration": "18min",
+          "description": "On their way to dispose off the dead body, the three friends are stopped by a cop who asks them for a lift. They stop at a dhaba for a break and the police unexpectedly drives away with the hooker in the car!"
+        },
+        {
+          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "ep_title": "5. Chalo Bangkok",
+          "duration": "14min",
+          "description": "The policeman crashes the car that he ran away with and is afraid that he has killed the hooker. But the three friends arrive to unwittily confessing of their crime. The police immediately starts blackmailing them and unexpected things shock everyone."
+        }
+      ]
+    }
+  ],
+  "watchList": []
+}
