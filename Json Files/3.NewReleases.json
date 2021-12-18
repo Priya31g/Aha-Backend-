@@ -1,0 +1,324 @@
+{
+  "NewReleases": [
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYzg1OTczN2YtNGE1Yy00YWJmLWI2ODMtYmE2MGYyMDE5ZGVkXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Comedy"],
+      "imdbid": "tt11675502",
+      "title": "Dubsmash",
+      "imdbrating": 6.3,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Dubsmash is a movie revolving around the lives of college students, their trials with love and the problems they face due to social media. Throwing light on the issue of phone addiction, it is an all-out entertainer."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNTBhMzM3NWQtZTI3ZC00MjkxLTljOWItNzEzNTQ0MzIxOTNhXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Romance", "Thriller"],
+      "imdbid": "tt11581190",
+      "title": "Degree College",
+      "imdbrating": 4,
+      "released": 2020,
+      "synopsis": "Parvati is the daughter of police and Shiva, a guy from the lower caste falls for her. As usual, the girl's family is against her love and hence she gets out of her house and marries Shiva....",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMjVlNzM0ZDgtMTkwNi00YjMxLWFjMzQtYTM5NjJkZGNlOWM1XkEyXkFqcGdeQXVyMTEyMDc2OTA5._V1_UY268_CR74,0,182,268_AL_.jpg",
+      "genre": ["Romance"],
+      "imdbid": "tt11546078",
+      "title": "Utthara",
+      "imdbrating": 8.7,
+      "released": 2020,
+      "synopsis": "",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZWNkMTY3ZjMtMDdlMy00NjcyLThiMmItY2YzNmRkNjk3OGNlXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt11536276",
+      "title": "3 Monkeys",
+      "imdbrating": 5.1,
+      "released": 2020,
+      "synopsis": "Movie about Anand, Santosh, and Phani are three happy go lucky bachelors who are not at all serious about their lives. The twist in the tale arises when they get into a massive problem. ...",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMTMyNDQ5ZmQtNDgyYy00ZGFmLWJkNmYtOWNiNWM5YTA3YjU1XkEyXkFqcGdeQXVyMTE0NjE2MDI1._V1_UY268_CR99,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt11536216",
+      "title": "Shivan",
+      "imdbrating": 8.5,
+      "released": 2020,
+      "synopsis": "Shivan revolves around a couple who are very much in love but one day the woman is found dead and the man is found guilty and imprisoned. But once he is in jail he recollects certain memories that change everything.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYmFjNzIyNzktMWRiOS00MjU5LThlYmUtOWQ4NjNmZDAxOWUyXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_UY268_CR5,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt11490170",
+      "title": "HIT",
+      "imdbrating": 7.7,
+      "released": 2020,
+      "synopsis": "Vikram is a 30-year-old cop. While he is battling with his own traumatic past, the stakes get high when a girl called Preethi mysteriously disappears in Hyderabad and Vikram has to solve the case at any cost.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMTg4MWJiMWQtZjI5My00ZmNiLTkwMjAtOTI4ZWJmNjlhNTk5XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "imdbid": "tt11433696",
+      "title": "Solo Brathuke So Better",
+      "imdbrating": 5.7,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNWE3ZTc1ZjItNWIyMy00Njk4LWJkNjQtNTgzMjg3NmIzNzRlXkEyXkFqcGdeQXVyNjU0Nzg1NzY@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt11430262",
+      "title": "Aswathama",
+      "imdbrating": 6.5,
+      "released": 2020,
+      "synopsis": "A man works to uncover the details behind a series of crimes targeting women.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTdjMGExY2QtMTgzYy00ODlkLThkZWQtZGZiNjc1MTRmOTIxXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt11385128",
+      "title": "V",
+      "imdbrating": 7,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOGM1NTIzM2ItODcxOC00NjAxLWEzY2ItOGViNDQwY2E0NThkXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UY268_CR23,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt11355174",
+      "title": "Amrutha Ramam",
+      "imdbrating": 6,
+      "released": 2020,
+      "synopsis": "Amrutha Ramam is a heartfelt love story based on a series of true experiences. The film depicts the lives of Amrutha and Ram, and how together they find the meaning of selfless love.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMDQ2MWRmZTAtODg3MS00Yjk1LTgyYzktYThmYmMzNTQzMDE0XkEyXkFqcGdeQXVyMTEwMTU5Mzk3._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Crime", "Drama"],
+      "imdbid": "tt11343552",
+      "title": "Anukunnadi Okkati Ayyindhi Okati",
+      "imdbrating": 4.5,
+      "released": 2020,
+      "synopsis": "The story of four metropolitan girls who are very close to each other from childhood. A Journalist, a fashion designer working for movies, a software engineer and a home maker are these girls.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZTNlNzRjMjItZGFiZC00YWYxLWEwNmQtOTI0ZWJiNzk1Zjg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Mystery", "Thriller"],
+      "imdbid": "tt11323316",
+      "title": "Penguin",
+      "imdbrating": 4.6,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "It is a spine chilling tale of a pregnant mother who sets out on a dangerous mission to unravel the mystery and save her loved ones."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMGRmZWZiZmQtNzYyOC00NzZlLWI1Y2MtYTBkMzBiMGU2MTIxXkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_UY268_CR17,0,182,268_AL_.jpg",
+      "genre": ["Romance"],
+      "imdbid": "tt11301882",
+      "title": "Choosi Choodangane",
+      "imdbrating": 6.3,
+      "released": 2020,
+      "synopsis": "The film portrays Siddu's life through the years, falling in love with Aishwarya for the first time while in college, and later meeting Shruti, a drummer, alongside his struggle to become a fashion photographer.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTdhODUxYzYtNzc1Zi00YTMzLThhYzAtMTk3YzIwMjQwYzMwXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Romance"],
+      "imdbid": "tt11199356",
+      "title": "Bheeshma",
+      "imdbrating": 6.6,
+      "released": 2020,
+      "synopsis": "The film revolves around Bheeshma, a man making his living as a meme creator, who wants to remain single forever. But will he be able to?",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNmQ2ZDRlZmItMmU1NC00YmJiLTlmMDgtMjE2MWI5NTdjYmE0XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt11199310",
+      "title": "Miss India",
+      "imdbrating": 3.7,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Miss India is being directed by Narendra Nath and Produced by Mahesh S Koneru under East Coast Productions. The film touted to be a drama stars National Award Winning Actress Keerthy Suresh..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNTA2ZWJjNDItMTcxMi00MGEwLWEyMTUtYWQ2ZDBjMTY3MjNjXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Mystery"],
+      "imdbid": "tt11157218",
+      "title": "Valayam",
+      "imdbrating": 5.9,
+      "released": 2020,
+      "synopsis": "When his wife goes missing, Arvind must solve the mystery of her disappearance before time runs out and he becomes the prime suspect.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOWRjMTY2YzYtMDRhMi00MTFlLWI5YmYtNjdiZTI2NjZiZDg1XkEyXkFqcGdeQXVyODk4NzY2NzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Thriller"],
+      "imdbid": "tt11041466",
+      "title": "Oka Chinna Viramam",
+      "imdbrating": 6.4,
+      "released": 2020,
+      "synopsis": "Deepak is a businessman immensely in love with his pregnant wife Sameera . But when his idea of raising profits for his business puts her in trouble, he teams up with Balu (Naveen Neni) and Maya to save her.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNjNkYjNmZTgtNWIwMy00ZGIwLWFhNGMtZjhhMzk4ODI1ZjRjXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Romance"],
+      "imdbid": "tt11024568",
+      "title": "Savaari",
+      "imdbrating": 5.7,
+      "released": 2020,
+      "synopsis": "Raju who rents his Badshah for weddings, meets Baagi who has been in quench of real love after her step-parents try to get her married against her wish. How did she escape that marriage is the crux of the story.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMDQyYzExNjAtZjU2Yi00NzFlLTk2ODItOGY4NzU5OTE5MjEyXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt10995146",
+      "title": "Entha Manchivaadavuraa",
+      "imdbrating": 5.4,
+      "released": 2020,
+      "synopsis": "Balu loses both of his parents in his childhood and he grows up as an orphan. Because of this, he starts an organization named \"All Is Well\" to supply emotions to the needy.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTA1MzAyZDYtNjhlZC00Mzc0LTgzNTItOTA3YzdiOWM5N2M4XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Romance"],
+      "imdbid": "tt10991188",
+      "title": "World Famous Lover",
+      "imdbrating": 5,
+      "released": 2020,
+      "synopsis": "An amalgamation of four different love stories: Seenayya and Suvarna, a middle-class couple in a small town; Gautham, a youngster romancing in Paris with Iza, Union Leader Srinu in love with his boss lady, and a first college romance.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTBkMWM5NzYtYjJkZC00NDRiLWE2MjctOTI5NzUxOGJjNTBjXkEyXkFqcGdeQXVyMTEyOTYzNjY1._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Drama", "Family"],
+      "imdbid": "tt10801196",
+      "title": "Pressure Cooker",
+      "imdbrating": 6.4,
+      "released": 2020,
+      "synopsis": "This is a new age family drama entertainer. The story is about a young graduate under pressure from his father who expects him to go and \"settle\" in USA to be seen as successful. #pressurecookermovie",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BODllNjZkODEtMGRkNS00YWQzLTg3MTYtMzg2N2U0ODI0Zjk0XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Drama"],
+      "imdbid": "tt10773090",
+      "title": "Sarileru Neekevvaru",
+      "imdbrating": 6,
+      "released": 2020,
+      "synopsis": "A tough army major is deployed to Kurnool on a mission to keep the country safe from external threats.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNWUxNjY4MjYtZjI0Mi00OTNiLWJlNDktYjUwYjBmNjFlYmU1XkEyXkFqcGdeQXVyMjEyMDE4ODk@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Thriller"],
+      "imdbid": "tt10768548",
+      "title": "Raahu",
+      "imdbrating": 6.4,
+      "released": 2020,
+      "synopsis": "Bhanu suffers from 'conversion disorder a.k.a hysterical blindness' where she goes temporarily blind under severe stress, in her case triggered upon seeing blood, must fight her enemy who inflicts more bloodshed than she ever imagined.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZDBmM2Q1MjQtNTljMy00NzBhLTlhNmItNGQ2Mjk2YWRjMmRkXkEyXkFqcGdeQXVyNjU0Nzg1NzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt10682062",
+      "title": "Palasa 1978",
+      "imdbrating": 7.4,
+      "released": 2020,
+      "synopsis": "Mohan Rao and his elder brother face Pedda Shavukar and Chinna Shavukar, a political battle where low caste fights the high caste power.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMzNmN2ZhZWMtYTM1NC00Y2VlLThhMDYtY2M3NzdiYmQ4ZTU3XkEyXkFqcGdeQXVyOTIzMTY3NTM@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt12369428",
+      "title": "Raju Gari Kidnap",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "A desperate filmmaker Aravind, who just broke up with his girl kidnaps a film producer to narrate a film story, as he doesn't have any choice. How he able to convince him to make the film ...",
+      "imdbrating": 7
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNGJlMDM4MGYtZTkwOS00OWQyLWFmNzAtNDMyNjNmMTQwYjMyXkEyXkFqcGdeQXVyMTE2MTc3MzU1._V1_UY268_CR43,0,182,268_AL_.jpg",
+      "genre": ["Mystery", "Thriller"],
+      "imdbid": "tt12381488",
+      "title": "Run",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "On their wedding anniversary Sundeep is waiting at a restaurant for his wife Shruti to arrive. But in a shocking turn of events, she is dead. Is it a murder or a suicide?",
+      "imdbrating": 4.8
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTI4YmJjNzktNTMzNC00MzRlLTk3NmEtZWQ3ZjRkODZkMDdmXkEyXkFqcGdeQXVyMTE2MTc3MzU1._V1_UY268_CR43,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt12393378",
+      "title": "Coronavirus",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "",
+      "imdbrating": 5.6
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNzQxNjc5YTUtNjViNy00YTA2LThmMGEtOTg3NTc1ZmIyYjAyXkEyXkFqcGdeQXVyNzExNjE3NDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Mystery"],
+      "imdbid": "tt10801230",
+      "title": "IIT Krishnamurthy",
+      "imdbrating": 6,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Krishnamurthy Who Is An IIT BOMBAY Student Comes To Hyderabad And Gets To Know That His Uncle Is Missing. Entire Story Revolves Around The Mysterious Missing Case Of Krishnamurthy's Uncle."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMjYyOGUxNTUtYjVmZC00OWE4LWJmYzktMDVmNGYyMDMzNzUzXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt11506054",
+      "title": "Uma Maheswara Ugra Roopasya",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Mahesh, a photographer, gets beaten up by a stranger when he tries to solve an issue in his village. He sets out to take revenge on the stranger as he feels insulted after the incident.",
+      "imdbrating": 7.8
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZTM1NGMzNTItZDI3Zi00YmNjLWE0MGEtODVhYmQ0ZmJiZWU4XkEyXkFqcGdeQXVyMTE2MTc3MzU1._V1_UY268_CR0,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "imdbid": "tt12498582",
+      "title": "Bhanumathi & Ramakrishna",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Bhanumathi Ramakrishna is a romantic comedy which gives a glimpse into the lives of the two characters - Bhanumathi (played by Salony) and Ramakrishna (played by Naveen). Ramakrishna ...",
+      "imdbrating": 7.1
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYzU4NTU3N2QtOGY1Ni00ZTQwLWE1OTYtODVjNTgwZWIyZDA5XkEyXkFqcGdeQXVyMTIwODMzMzIz._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt12675216",
+      "title": "Power Star",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "",
+      "imdbrating": 6.2
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYWM0NWU4N2ItMzllNS00YjExLTkxNWUtNjQ0NTY1MDgwNTFiXkEyXkFqcGdeQXVyNzgwOTYzNDY@._V1_UY268_CR194,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Mystery", "Thriller"],
+      "imdbid": "tt8004570",
+      "title": "47 Days: The Mystery Unfolds",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Satya, a Suspended Cop, who lost his wife in mysterious circumstances, unexpectedly gets hold of a case which relates to his wife's death. He's starts investigating which eventually hunts ...",
+      "imdbrating": 5.3
+    }
+  ]
+}

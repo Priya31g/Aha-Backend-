@@ -1,0 +1,344 @@
+{
+  "FreeMovies": [
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMzhlNjUxZDQtN2YxYi00OWZhLWE5ZmMtNTY1ZWQ4NWMzZTM0XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Musical", "Romance"],
+      "imdbid": "tt7559180",
+      "title": "99 Songs",
+      "imdbrating": 7.1,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "The film is a sensual story about art and self-discovery of a struggling singer who wants to be a successful music composer."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZDgyODkzYmItMmVkOC00Mzc1LWE5MzUtMTgzZmQ5NDE3N2VkXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Action", "Thriller"],
+      "imdbid": "tt9799984",
+      "title": "Falaknuma Das",
+      "imdbrating": 6.6,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Set in the backdrop of the colonies of falaknuma where a group of youngsters fall into unexpected consequences which lead them to a driving pathway of violence, brutality and ruthlessness."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNTk1MWI0NTQtNjA1ZC00ZjgyLWFlNTQtMjY1Mzc2YzNhYmZmXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Action"],
+      "imdbid": "tt9768594",
+      "title": "Nene mukyamantri",
+      "imdbrating": 4.6,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "The movie will begin with a bump in the court of Chief Minister who rules the state politics. The current chief minister can not help him, but he does not want to help a star hero when he ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTVlNzJiZDEtMDlhYi00YmQ1LWI4YjItZTJkZDcxZmEwYzc4XkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "imdbid": "tt9680602",
+      "title": "Kothaga Maa Prayanam",
+      "imdbrating": 6.8,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Kothaga Maa Prayanam is about Karthik \"Priyanth\" who is a playboy and doesn't believe in marriage and love. He proposes Keerthi \"Yamini Bhaskar\", a new employee at his office to start a ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYzE5ODA2NTktYmY4Ny00ZTdhLTljNWYtNjZjNzA0Yjc4NmYzXkEyXkFqcGdeQXVyODMyMzIzMDk@._V1_UY268_CR5,0,182,268_AL_.jpg",
+      "genre": ["Romance"],
+      "imdbid": "tt9680090",
+      "title": "Thipparaa Meesam (Telugu)",
+      "imdbrating": 5.6,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "An extremely talented DJ working in a local night pub, who is also a spoiled brat, gets involved in an adventure where he must fight against all odds to survive."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYjZlN2UwYmEtMmRkOC00NzViLWFjMWEtOGY2YTBmNjZlNTVmXkEyXkFqcGdeQXVyMzc4ODk0NTc@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy"],
+      "imdbid": "tt9675464",
+      "title": "Gang Leader",
+      "imdbrating": 7.7,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Nani plays the gang leader of five women belonging to different age groups, helping them to plot revenge."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMWFlNDdlM2EtMGFlMS00NTViLWJlZGEtMjVhNjJiNGI1YjdlXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt9670480",
+      "title": "Gaddalakonda Ganesh",
+      "imdbrating": 6.6,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "An aspiring filmmaker who wants to direct a realistic story, stumbles upon a menacing villain and to learn the nitty-gritties of the villain's character, he puts his and his friend's life on the line."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMjNkM2M1YTItYjUwZC00NmFiLWFiMzgtY2I1YWU4ZGQ0YmJjXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Romance"],
+      "imdbid": "tt9665402",
+      "title": "Sita",
+      "imdbrating": 4.9,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "A four-year-old Ram is left in a monastery by a person named Anand Mohan and is promised that Sita will come to take care of him. Ram is innocent and cute. He makes Ram promise that he too,..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMjk1NGVlYjQtY2Y1MS00NTlhLThjMzktZjY3NTMwNTUxYmY3XkEyXkFqcGdeQXVyNjM0NDc1MzM@._V1_UY268_CR16,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Romance"],
+      "imdbid": "tt9636910",
+      "title": "I Love You",
+      "imdbrating": 4.6,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "When Santu meets Dharmika after few years of romantic college life, will he win the lost love, or is there something surprise round the corner."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZTlhOTdjMDktYjU3MC00NDg1LTgwMGUtZDljZTU4MDU3ZmYyXkEyXkFqcGdeQXVyNzgwOTYzNDY@._V1_UY268_CR123,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Romance"],
+      "imdbid": "tt9610354",
+      "title": "Ninnu Thalachi",
+      "imdbrating": 5.9,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Abhiram (Vamsi Yakasiri) is a happy-go-lucky guy, who falls in love at first sight with a girl named Ankitha tries very hard to explain his feeling to her. On the other hand, she loves ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZTU2NzJmYjgtNzAzZi00NzE4LTgyZDUtODJlY2FjYzZhYTA0XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Drama"],
+      "imdbid": "tt9564774",
+      "title": "Venky Mama",
+      "imdbrating": 5.5,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "A story of nephew and a son which revolves around their emotions and village drama and army based story."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMDVhMTk2MjktMDUwYy00MWU0LTgwZTYtMDMxZjQ5MDUxNmQ3XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Sci-Fi"],
+      "imdbid": "tt9558468",
+      "title": "iSmart Shankar",
+      "imdbrating": 5.6,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "iSmart Shankar, starring Ram Pothineni and directed by Puri Jagannadh revolves around a hero who has another man's memory transferred into his head."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZjg5ZjNkOGItYWMwMi00NjhiLWFmYzYtYWZhYmQxYTA4MmNjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt9537082",
+      "title": "Ranarangam",
+      "imdbrating": 6.1,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Deva (Sharwanand) is a powerful gangster from Visakhapatnam who moves to Spain to put his past behind him. But what happens when he realises he can't shake off his enemies no matter where he goes?"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMjEzMmZmNGItMGFjNi00ZGEwLWFkODMtYjdkYmYyMmRmYjE1XkEyXkFqcGdeQXVyMjUxMTY3ODM@._V1_UY268_CR14,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Romance"],
+      "imdbid": "tt9468644",
+      "title": "Suryakantham",
+      "imdbrating": 5.6,
+      "released": 2019,
+      "type": "movie",
+      "synopsis": "Suryakantam is the story of an eccentric girl who turns everyone's worlds upsimdbide down."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTQ5MGJjMzItM2ZmYi00MzVlLThkNmMtYTFjMmQ5YTVlYWJlXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt9304360",
+      "title": "Ayogya",
+      "imdbrating": 6.2,
+      "released": 2019,
+      "synopsis": "A corrupt police officer finds his life changing when he takes on a case of gang rape.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMThhYWQwMzUtYzZkYi00MjI0LWE5NzctMWRiNDc0NWI0Y2UyXkEyXkFqcGdeQXVyOTM2NjQ1OTE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt9271358",
+      "title": "Bailampudi",
+      "imdbrating": 6.8,
+      "released": 2019,
+      "synopsis": "Ravi (Harish Vinay), an auto driver falls for Kalyani (Tanishq Rajan) who happens to be the daughter of the village head Guru Narayan( Brahmanandareddy). The twist in the tale arises when Guru Narayan gets killed by Ravi. During his last breath, he reveals a secret about Kalyani which leaves Ravi stunned.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYTIyNWM5YzgtZDhkNC00MmZjLWIxODItYTViZmVmZjlkMDE3XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Sport"],
+      "imdbid": "tt9260636",
+      "title": "Bigil",
+      "imdbrating": 6.9,
+      "released": 2019,
+      "synopsis": "A former football player struggles to train a women's football team and avenge his father's death.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNzk4Y2ViYjMtNGFmOC00YzM1LWI0YmYtMmM1NDMyZDYwYjNkXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Romance"],
+      "imdbid": "tt9251858",
+      "title": "Hippi",
+      "imdbrating": 4.9,
+      "released": 2019,
+      "synopsis": "Hippi is about the live-in relationship between an energetic youngster and a confimdbident girl.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYWEzNTY1NDYtMzNmMy00ZmNhLTk2MzItZjRmM2U1MWVmZDMwXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt9239882",
+      "title": "Kadaram Kondan",
+      "imdbrating": 5.7,
+      "released": 2019,
+      "synopsis": "Vasu, a young medico, after rescuing one of his patients from a murder attempt finds out that his pregnant wife is abducted, and the kimdbidnappers demand the patient he saved in exchange for her safety.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZDZkYTBkZWItZTllNS00ZTNkLTliOWItNmZmNTQyMmJkZDc1XkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Romance"],
+      "imdbid": "tt9165332",
+      "title": "Chitralahari",
+      "imdbrating": 7.2,
+      "released": 2019,
+      "synopsis": "Down on luck and depressed by constant failures in personal and professional life, Vijay is desperately in search of that single stroke of fortune that could turn his life around. But what if the power to rewrite his destiny lies within?",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMGEwOWIyY2MtZmZjNC00YjViLWI3M2YtMTg0ZjdlNzdiODM5XkEyXkFqcGdeQXVyMzE5NDQ1MDI@._V1_UY268_CR6,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Romance"],
+      "imdbid": "tt9154602",
+      "title": "imdbiddari Lokam Okate",
+      "imdbrating": 5.5,
+      "released": 2019,
+      "synopsis": "A series of coincimdbidences brings two star-crossed lovers together, but fate pulls them apart until they encounter each other again in Hyderabad.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BY2NiY2UyMWYtMzY1NS00NjMwLWEzYzktOTc3Y2Q0YWVjM2VhXkEyXkFqcGdeQXVyNzgwOTYzNDY@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Thriller"],
+      "imdbid": "tt9081232",
+      "title": "Operation Gold Fish",
+      "imdbrating": 4.7,
+      "released": 2019,
+      "synopsis": "A group of commandos set out on a mission to find and eliminate a mysterious terrorist mastermind called Gold Fish in the Kashmir valley.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZTQ1N2U5NWItM2FlNy00ZWE2LWFhY2ItMGY1OWMwZTQ5NzAzXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Romance"],
+      "imdbid": "tt9021092",
+      "title": "Mr. Majnu",
+      "imdbrating": 6.1,
+      "released": 2019,
+      "synopsis": "A charming playboy who has never had a serious relationship finds himself in a spot of bother when he finally meets the right girl. Will they end up together? Or will his fear of commitment affect their relationship?",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMTA1YmRlZDUtMjQyZi00YTczLTgwMTAtZDJlZDA4NGI5MzhiXkEyXkFqcGdeQXVyOTYwMTk4OTU@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Romance"],
+      "imdbid": "tt8898328",
+      "title": "Sakala Kala Vallabhudu",
+      "imdbrating": 4.8,
+      "released": 2019,
+      "synopsis": "Sakala Kala Vallabhudu is a Telugu movie starring Tanishq Reddy, Meghla Muktha in prominent roles. It is a commercial entertainer directed by Shiva Ganesh.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BODgwNzQ5MzItMjcxOC00OTNlLTk3NDMtYjNmMWZjOGM2NDU2XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR7,0,182,268_AL_.jpg",
+      "genre": ["Action", "Adventure", "Romance"],
+      "imdbid": "tt8751976",
+      "title": "Dev",
+      "imdbrating": 4.8,
+      "released": 2019,
+      "synopsis": "Dev, a youngster from a well-to-do family, is an adventure seeker. When his friend playfully tries to set him up with Meghna, a businesswoman who has no time for love, Dev has to embark on an adventure of another kind.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTYyYjhiOTYtODA0MC00M2ExLWE4M2ItNWZiMmFiNzQ1MGE1XkEyXkFqcGdeQXVyNjE1OTQ0NjA@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Romance"],
+      "imdbid": "tt8737614",
+      "title": "Majili",
+      "imdbrating": 7.3,
+      "released": 2019,
+      "synopsis": "A former cricket player nursing his wounds of a failed relationship takes up the task of training his ex-lover's daughter and in the process discovers his feelings towards his wife and her unrequited love for him.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYTZjNjM1M2EtZTczNi00MzlmLWFhZWUtNDRmODgwM2YwYWFlXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UY268_CR2,0,182,268_AL_.jpg",
+      "genre": ["Action", "Mystery", "Thriller"],
+      "imdbid": "tt8660422",
+      "title": "118",
+      "imdbrating": 6.6,
+      "released": 2019,
+      "synopsis": "A recurring nightmare involving the murder of a young woman prompts an investigative journalist on a quest to find out whether there is any truth to the dream.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYjcxNWExYTEtN2IxNy00ZWIxLTgyZmUtMTIwZTgzMmNhZDI2XkEyXkFqcGdeQXVyODk2OTYwODU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Crime", "Drama", "Romance"],
+      "imdbid": "tt8616250",
+      "title": "Mithai",
+      "imdbrating": 4.4,
+      "released": 2019,
+      "synopsis": "The Dude abimdbides but he must help two losers find the thief in a twisted plot of love and fate.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZTdmNmI4MzUtNDUzMi00ZTIzLWE3MmMtNTk5YjU5Zjg4YmQ3XkEyXkFqcGdeQXVyMzM4MDA0Nzk@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt8594012",
+      "title": "Arjun Suravaram",
+      "imdbrating": 6.9,
+      "released": 2019,
+      "synopsis": "An investigative journalist is arrested for cheating banks with fake certificates. He discovers a crime syndicate behind the scam and decimdbides to investigate it himself.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZmMwYjZhYjAtODc0MC00OTE4LTg2YTAtYzlkMTM3ZjExYjJiXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Action", "Thriller"],
+      "imdbid": "tt8411144",
+      "title": "Kaappaan",
+      "imdbrating": 6.5,
+      "released": 2019,
+      "synopsis": "A Special Protection Group officer has to imdbidentify the threat to the prime minister, who he is protecting, and also the nation.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNzQ3YzkyMjEtNGFmYi00Y2QzLTg4NjItODMzNWQ0NzBiYWEzXkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt8333978",
+      "title": "Maharshi",
+      "imdbrating": 7.3,
+      "released": 2019,
+      "synopsis": "Rishi, a millionaire businessman, returns to his homeland, where he becomes the champion of poor and downtrodden farmers.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BODhhYWEzYTQtMzEwNy00ZDY5LWE5ZjItODRiNzBjYzJjN2EwXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR2,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt8094252",
+      "title": "NGK",
+      "imdbrating": 6,
+      "released": 2019,
+      "synopsis": "An educated do-gooder is forced to enter politics in order to serve the society. But, will the old guard make way and allow him to do that?",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BY2FlM2JmZjItYjAxNC00MDE3LWE4YWEtNjk1NTFhNWI4NWM3XkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Horror"],
+      "imdbid": "tt8042248",
+      "title": "Kanchana 3",
+      "imdbrating": 4.3,
+      "released": 2019,
+      "synopsis": "A young man who gets easily scared is possessed by a ghost that is seeking revenge.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BODMxNTQ4YmYtNzYwZC00ZjliLWEwYjAtN2U0NzE4NThiZTc2XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR10,0,182,268_AL_.jpg",
+      "genre": ["Action", "Thriller"],
+      "imdbid": "tt7508630",
+      "title": "Kee",
+      "imdbrating": 5.3,
+      "released": 2019,
+      "synopsis": "A man falls in love with a girl and tries to impress her. However, their life takes a serious turn when they fall victim to cyber-bullying.",
+      "type": "movie"
+    }
+  ]
+}

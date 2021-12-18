@@ -1,0 +1,344 @@
+{
+  "Drama": [
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYTQyMGQxMTMtMGFiNy00ODBhLTkyY2QtZTk1MzUwODdhOWMzXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Romance"],
+      "imdbid": "tt9890030",
+      "title": "Prematho Mee Karthik",
+      "imdbrating": 6.7,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A materialistic father and son take a thirty-day trip together where they learn about people, value and love, while his father tries to himdbide his impending death from his son."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNmUzYzZmM2QtNTE5Ny00MzNjLWJiMjMtOTk4NGM2ZjU3YWIwXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Drama"],
+      "imdbid": "tt9729774",
+      "title": "Sapthagiri LLB",
+      "imdbrating": 7.3,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A small time lawyer Sapthagiri LLB \"Sapthagiri\" challenges one of the top lawyers of the country \"Sai Kumar\" in order to attain fame, what all he faces and how he wins the case forms the story."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BY2RmYTRjZGMtMDcwNy00MGRjLWFmZDMtZTU5Y2ZmYTQyOTg5XkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY268_CR16,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Romance"],
+      "imdbid": "tt9638298",
+      "title": "Maa Abbayi",
+      "imdbrating": 4.7,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Young man loses his mother father and sister in a terrorist blast at the local temple. His story is one of revenge."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYTJmMGZmMTMtN2Q4Ny00ODhjLTkzYmUtNDM3MDIxODY2OWZmXkEyXkFqcGdeQXVyNDMzNDEzNzA@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt8909120",
+      "title": "Gulf",
+      "imdbrating": 9.1,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "While many harrowing tales have come forth through news reports of how Indians choosing to work in Gulf countries face inhumane treatment, 'Gulf' charts the journey of Shiva (Chetan) and ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMzU5ZDA5YmYtN2RhMS00NDQyLTlhNmItODlmZDA1ZWMxMTFjXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Mystery"],
+      "imdbid": "tt8073108",
+      "title": "Napoleon",
+      "imdbrating": 6.9,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "The curious case of a missing shadow. Napoleon (Anand Ravi) visits a police station and lodges a complaint that his shadow is missing. This unique case becomes the talk of the town. ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNmE4NzllNGMtNjM0Yi00NzIzLWE4MzMtYWYxMGRkM2RlYjAyXkEyXkFqcGdeQXVyMjY1MjkzMjE@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Fantasy", "Romance"],
+      "imdbid": "tt7998110",
+      "title": "Angel",
+      "imdbrating": 6,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A man is shocked when the antique imdbidol that he is trying to smuggle out of the country suddenly comes to life."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOGFkYzkzODktYTNjMC00ZmY0LTkzODgtOWJkZTE0OGU2ZGNiXkEyXkFqcGdeQXVyNzYxMDE3NDE@._V1_UY268_CR147,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt7981494",
+      "title": "Sekharam Gari Abbayi",
+      "imdbrating": 7.6,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNTdlNWQzZjYtNWExZS00NjgwLWFjY2YtYTk4ZDJlZGNmMmM3XkEyXkFqcGdeQXVyNzYxMDE3NDE@._V1_UY268_CR229,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt7981440",
+      "title": "Lacchi",
+      "imdbrating": 4.9,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNjM4YjZmNmItNDA3YS00NTcyLWFlYmEtODMwZjRjZjRjYzViXkEyXkFqcGdeQXVyNzYxMDE3NDE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt7981438",
+      "title": "Devi Sri Prasad",
+      "imdbrating": 5.8,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A group of three close friends, including Devi, Sri and Prasad live a happy life and when everything seems as well for them, a major car accimdbident involving the popular heroine, Leela, ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BN2U5ZWMzNzUtNjVlMS00ZDMzLWJjNWYtODc3ODViN2YzMzRjXkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt7905892",
+      "title": "Dr. Chakravarty",
+      "imdbrating": 4.9,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Anirudh singh is a real cop of up Police he's playing a police officer role in this movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNzY2YjcwNjItNjM4ZS00NTZjLTk4MDUtMzExZDgxMTFiNjAwXkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Romance"],
+      "imdbid": "tt7905602",
+      "title": "Kala Varam Aaye",
+      "imdbrating": 7.1,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Raghav,the male protagonist in the story has an unique disorder of dreaming every time he goes into a sleep and speaking about the dream out. just like every other night,he gets into a ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BODdmNzIxYWMtNWY5Ny00YmJiLWExYWYtM2MzNjZhYzJlODk0XkEyXkFqcGdeQXVyOTUwNjgzMjk@._V1_UY268_CR147,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "imdbid": "tt7886860",
+      "title": "Mama O Chandamama",
+      "imdbrating": 5.8,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNDlmNDUzMDUtNTM1Mi00MDA2LWEwNzktMjM3N2M1OWE2YTgzXkEyXkFqcGdeQXVyMjM5NDY4NzU@._V1_UY268_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Thriller"],
+      "imdbid": "tt7770176",
+      "title": "Thittivasal",
+      "imdbrating": 7.6,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A Collector, a cop and a minister want to displace a community of tribal people from their mountain homes for their personal gains."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYjUyZGY4NDQtOGE5My00M2EzLWE0ZGEtMmQwNTgxNjBmYmUxXkEyXkFqcGdeQXVyMTU4MjkxODU@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Romance"],
+      "imdbid": "tt7684228",
+      "title": "MalliRaava",
+      "imdbrating": 8,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Karthik and Anjali meet each other in three different phases of their life. In each phase, both develop a bond, get close to each other, but eventually part ways."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMTc5YWJmYTYtMmE1Mi00NDA3LTlhYWMtMTE3NTRjMjEwMjQ0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "imdbid": "tt7675422",
+      "title": "Mental Madhilo",
+      "imdbrating": 7.6,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "An indecisive guy who has been rejected by several women, finds himself in a spot when he has to choose between two women."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMGNlZGQxMjItZmExZS00NDM5LWFhZmQtODM0Y2JiMWZkNDZhXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt7504256",
+      "title": "Oye Ninne",
+      "imdbrating": 6.5,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "'Oye Ninne' charts the story of Vishnu (Bharat), a young man who aspires to be a farmer while his parents want him to aim for something big. He grows up with his cousin Veda (Srushti Dange)..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMjE3YmY0ZDUtZmQ1My00NDJmLWJkMDQtMDVmMzUxMzZkMTkzXkEyXkFqcGdeQXVyMjM5NTM5NjM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt7428372",
+      "title": "Darshakudu",
+      "imdbrating": 6.6,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Mahesh (Ashok) has been dreaming since childhood to become a director. As soon as he gets a chance, Namrata (Eesha Rebba) comes into his life and friendship turns to love."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYzdhMzA3YjItOGFkMy00ZjljLWFhODMtZDk0MzY2ZjVmOWMxXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt7322816",
+      "title": "Vunnadhi Okate Zindagi",
+      "imdbrating": 6.5,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "It's about friendship between 2 friends and how their life changes when a new girl comes into their life and how their friendship will be impacted upon her arrival."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMzFhMThiOWItMzRjNC00YzQwLTkyZWItYmJhNzgwYzY1ODI0XkEyXkFqcGdeQXVyNTcyMzkyODg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Romance"],
+      "imdbid": "tt7294534",
+      "title": "Arjun Reddy",
+      "imdbrating": 8.1,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Arjun Reddy, a short tempered house surgeon gets used to drugs and drinks when his girlfriend is forced to marry another person."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZmE1MjMwM2MtOWJkNC00Yjc5LWIzMWYtM2U0MTYzNWNkZGIyXkEyXkFqcGdeQXVyNzMzMjU5NDY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "imdbid": "tt7268732",
+      "title": "Mahanubhavudu",
+      "imdbrating": 6.4,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A kind-hearted person must face his OCD condition in order to win his love back."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNjlkNWI1OGUtMzU0YS00M2Y4LTg2YTYtOTVhNDA4N2IzZGVmXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Drama", "Romance"],
+      "imdbid": "tt7159382",
+      "title": "Fimdbidaa",
+      "imdbrating": 7.5,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Varun and Bhanu, both from different worlds, face challenges in their relationship."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BY2U1ZGQ2MGUtYzhhNC00NTg4LWEyODEtODY4YzNiNGUwMzNiXkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Thriller"],
+      "imdbid": "tt7128254",
+      "title": "Goutham Nanda",
+      "imdbrating": 6.5,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "The son of a billionaire decimdbides to take an extreme step by leaving behind his riches and swapping his life with a depressed techie look-alike who wants to be a billionaire."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNTA3Y2QyZWMtMTI2ZC00NjA0LThmMjQtY2VhZWNlZDFkZmYyXkEyXkFqcGdeQXVyNzgwOTYzNDY@._V1_UY268_CR31,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt7125262",
+      "title": "Shamantakamani",
+      "imdbrating": 6.9,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "'Shamantakamani' is a comedy caper, which revolves around the robbery of a vintage Rolls Royce."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNjYzZDZmNjQtYzMxOC00MTE3LWEyNDgtMjg0NjZjMGVjMDkzXkEyXkFqcGdeQXVyODE5NjE0MzY@._V1_UY268_CR193,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt7111614",
+      "title": "Kathalo Rajakumari",
+      "imdbrating": 5.4,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Arjun is an arrogant film star who leads his life by degrading his fellow staff all the time. When everything seems to be going fine, a major car accimdbident completely changes his mindset and..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYWI0MzgyNTAtNTIxOC00N2NhLWJjNzktZGExMmMyYWY4Zjg0XkEyXkFqcGdeQXVyMTI4OTQ0NTk@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt6914498",
+      "title": "Nenu Kimdbidnap Ayyanu",
+      "imdbrating": 9,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A story of Deceit, Drama and Dread - yet treated in the most humorous and intriguing way to grab the attention of the audience. The story revolves around a elite software legend and a group..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNWIzOGRhMDctYzA5ZC00NWRkLWJlYzktOGE3YjI1MTI0NDY2XkEyXkFqcGdeQXVyNTA3MDEwMTg@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Thriller"],
+      "imdbid": "tt6861726",
+      "title": "Jai Lava Kusa",
+      "imdbrating": 7,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Simdbidelined at a very young age due to stammering, the eldest of imdbidentical triplets develops hatred for his younger brothers and creates havoc in their lives as they all reunite as adults."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BY2MzYmZjZTAtMTA0Mi00MGQ0LWI4ZDQtMGMyZWMxOWUwMjkwXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Romance"],
+      "imdbid": "tt6854792",
+      "title": "Sriramudinta Srikrishnudanta",
+      "imdbrating": 7.1,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A well-to-do and self-sufficient farmer, Rao, leads a simple life with his family in his village. His daughter Nandu, who, in search of a job, moves to Hyderabad, where she meets a man ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZjJlOGYxMTMtNzY3OC00ZDczLTkwMGEtYzgyYzIyMGEyZDFmXkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Mystery", "Thriller"],
+      "imdbid": "tt6708008",
+      "title": "Lanka",
+      "imdbrating": 5.9,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "It is about a Malayalam actress swathi (Ina Saha) who joins debutant director Sai (Sai Ronak) to work on a horror short film Hyderabad. They rent a guest house belonging to Rebecca(Raasi), ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOWI2YTVhNjQtMjgyMS00NjIyLWJkYmEtNGExZjVjN2U2NmVmXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Thriller"],
+      "imdbid": "tt6707992",
+      "title": "Vasham",
+      "imdbrating": 6.3,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Lives of Arvind and Vibhuti Nag exploring the concept of ancient mystic knowledge and dual nature of man - good and bad - through a unique concept of science is the story of Vasham."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYjA4ZTk0ZGItOWFkZC00ZWQ1LWE0MzctYWI1NWNiZDk4NzkwXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR16,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt6613470",
+      "title": "PSV Garuda Vega",
+      "imdbrating": 7.8,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A hacker tries to sell sensitive data related to a scam and an NIA officer accimdbidentally gets involved, saving him from getting killed."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BM2I2MzcwODgtMWZhNC00OGIxLTk0ZTUtNTkyY2EwNjFiZGJjXkEyXkFqcGdeQXVyNjkwOTg4MTA@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama"],
+      "imdbid": "tt6568474",
+      "title": "Winner",
+      "imdbrating": 4.6,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A man who is separated from his family as a child is replaced by an interloper."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMjU5ZmRkNWQtYmY4NS00MmE2LTk3ODQtYTMxYWY0Njg5MTdjXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR7,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Thriller"],
+      "imdbid": "tt6567396",
+      "title": "Yaman",
+      "imdbrating": 6.3,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "After losing his father to a bunch of scheming politicians, a young man decimdbides to wade into the corrupt and unscrupulous world of politics to avenge his death."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYTIwOTJiNzgtOGEwNS00NTMyLWE1ZjQtNDg3YTBmZjM2OTAyXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama"],
+      "imdbid": "tt6417204",
+      "title": "Shatamanam Bhavati",
+      "imdbrating": 7.1,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "The anguish that negligent children can cause is depicted here from the parents' perspective."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNDEzMGU0MTAtMzY0Yi00ZWVhLTkxM2EtYzk0Njg0NjY5MWEzXkEyXkFqcGdeQXVyODA2ODM3NDQ@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Thriller"],
+      "imdbid": "tt6342396",
+      "title": "Keshava",
+      "imdbrating": 6.3,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "A student with a rare heart disease has to seek revenge by controlling his anger."
+    }
+  ]
+}

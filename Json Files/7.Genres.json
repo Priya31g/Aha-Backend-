@@ -1,0 +1,44 @@
+{
+  "genres": [
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPpTPetnGpI6XGfXPEfYkP-It4Ta7Y5OJ8wA&usqp=CAU",
+      "title": "Drama"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQfQt1nwUqayw-QKngQiJu5ddFlKffMdRQoWQ&usqp=CAU",
+      "title": "Action"
+    },
+    {
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTneVx0Zx_lGSym8R6VIjb-M2YxUatSW8zouA&usqp=CAU",
+      "title": "Romance"
+    },
+    {
+      "image": "https://static.toiimg.com/thumb/msid-74707162,width-219,height-317,imgsize-61693/74707162.jpg",
+      "title": "Comedy"
+    },
+    {
+      "image": "https://cdn.myimgstock.com/myimgstock/preview/latest-prabhas-images-pic-for-whatsapp-dp-7-11609055632kog42pkst0.jpg",
+      "title": "Thriller"
+    },
+    {
+      "image": "https://moviegalleri.net/wp-content/uploads/2021/07/Actor-Suriya-Jai-Bhim-Movie-First-Look-Poster-HD.jpg",
+      "title": "Crime"
+    },
+    {
+      "image": "https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/4625c174224581.5cdf5e6595e77.jpg",
+      "title": "Romance Comedy"
+    },
+    {
+      "image": "https://assets.vogue.in/photos/5e3a4e1a0344170008692280/master/w_1600%2Cc_limit/pathala-bhairavi-poster.jpg",
+      "title": "Family Drama"
+    },
+    {
+      "image": "https://i.pinimg.com/736x/eb/15/4b/eb154b897ee60dcc292e6f7c9d4a1516--movie.jpg",
+      "title": "Devotional"
+    },
+    {
+      "image": "https://images.indiatelugu.com/wp-content/uploads/2017/07/Best-Of-Intlo-Deyyam-Nakem-Bhayam-Telugu-Movie-Poster-Images.jpg",
+      "title": "Horror Comedy"
+    }
+  ]
+}

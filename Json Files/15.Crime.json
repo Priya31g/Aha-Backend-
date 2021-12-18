@@ -1,0 +1,334 @@
+{
+  "Crime": [
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOGE3ZDRjMWEtN2RhMi00ODg0LTg1ZmQtYWFkYzkwYzlmMDNlXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt6735678",
+      "title": "Oxygen",
+      "imdbrating": 5.4,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Krishna arrives in India to get married to Shruti, but when Krishna saves her father from an attack, it is revealed he has a himdbidden agenda."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNTY0NGIzN2EtNzFjMi00NDkyLWE0ODItZjNhNmY1YjAyOThlXkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt6734984",
+      "title": "Duvvada Jagannadham",
+      "imdbrating": 5.9,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Trained by a high profile cop, an encounter specialist masquerading as a Brahmin priest takes on a real estate crime organization after losing his uncle."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYTMzMzlhODgtY2FhYy00ZTI4LWJjMTQtNjRjNjFhZGQyNzFiXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt6522546",
+      "title": "Spyder",
+      "imdbrating": 6.6,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "An intelligence officer attempts to save the city from a psychotic serial killer who kills people just to hear their loved ones cry."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMDZmNmVkYTgtYjFhZC00ZWRiLWJjOTItMzgwYzk3MDAzZDQzXkEyXkFqcGdeQXVyOTA0NTIzNzU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt5323640",
+      "title": "Singam 3",
+      "imdbrating": 6.3,
+      "released": 2017,
+      "type": "movie",
+      "synopsis": "Uncompromising police chief Durai Singam battles against a criminal operation dealing in deadly toxic waste."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMzhlNmMwZDQtMmQ0Mi00YzJmLTgxMWUtM2YzNmE4NTQwODJlXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt6130166",
+      "title": "Ism",
+      "imdbrating": 5.7,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "Hackers and gangsters collimdbide in this story about the fight against corruption."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNmZhNDMyZDQtNjRmNC00OWRhLWI4OGItNmZlMGRiMzk4YTNjXkEyXkFqcGdeQXVyNjIwNDI3NzI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt6027478",
+      "title": "Dhruva",
+      "imdbrating": 7.8,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "A committed police officer is on a very dangerous mission to destroy the most corrupt person in the country, Simdbiddharth Abhimanyu."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZDZhMDhjYWMtM2E1Ny00YmI5LWI5MGYtMmMzYzM1MTc2NGM3XkEyXkFqcGdeQXVyNTI0NzYwMzE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt5946852",
+      "title": "Janatha Garage",
+      "imdbrating": 7.3,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "An environmental activist comes to Hyderabad to attend a seminar, where an unexpected encounter with a man who runs an organization for the oppressed, changes his purpose in life."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTQ5MzY1MzgtZjU1NS00MGQ1LWJiZTctNGJhOGRkNWQwMWRhXkEyXkFqcGdeQXVyNjg2NDM4Mzc@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Biography", "Crime"],
+      "imdbid": "tt5663682",
+      "title": "Vangaveeti",
+      "imdbrating": 6.2,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "The life story of slain legislator Vangaveeti Mohan Ranga Rao who was assassinated during the NT Rama Rao regime in 1989."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMDA3MGUxN2MtYzlmYS00MGMwLWFmMjQtMjU1YTFmNTljZWE3XkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt5597792",
+      "title": "Attack",
+      "imdbrating": 4.4,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "Guru Raj, a powerful businessman, is killed and one of his three sons, Kaali, vows to find the culprit. When he is also killed, Radha, Kaali's brother, vows to uncover the killer and exact revenge."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNGY3ZGUxNjctMzYwYi00MzM3LTg4NjEtZjc3YTE4YWE0MzIzXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR16,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt5335394",
+      "title": "Kathakali",
+      "imdbrating": 6.6,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "An honest, simple common man is caught in a web of problems when is he accused of killing the leader of a local rowdy gang."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOWU3ZmRjZTktYjJjNi00OTM3LWJjOTEtNDQ4ZTU3ZjBjY2Q4XkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt5175168",
+      "title": "Terror",
+      "imdbrating": 7,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "A disgraced cop races against time to prevent an imminent terror attack and discovers the involvement of corrupt politicians and officers from his own department."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOWU1NTA5OGUtZTJkMC00MjBiLWE3NjAtYjhkZWY4ZWNjMjBlXkEyXkFqcGdeQXVyODIwMDI1NjM@._V1_UY268_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt5071886",
+      "title": "Kabali",
+      "imdbrating": 6.2,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "Returning from prison, aged gangster Kabali confronts those who had destroyed his life. While doing so, he learns about what had happened to his family when he was gone."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOGUwMmM5YjktMGM0OC00ODM1LTlmNDMtYTAyNWU0ZjFkNTM4XkEyXkFqcGdeQXVyNDUzOTQ5MjY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Biography", "Crime"],
+      "imdbid": "tt4897890",
+      "title": "Killing Veerappan",
+      "imdbrating": 7.2,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "A master strategist is appointed following Veerappan's unabashed spate of crimes and murders. The official puts in place Operation Cocoon, which involves setting up a network of spies and informers."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMWJiOGZkYTMtNGIyYy00YTgwLWI0NjAtNWE2MWM2NmI2OGI0XkEyXkFqcGdeQXVyMzYxOTQ3MDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt4545630",
+      "title": "Sardaar Gabbar Singh",
+      "imdbrating": 4.8,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "A kingdom called Rathanpur was taken ruthlessly by a feudal lord named Bhairav Singh. The princess of that empire was in a hopeless situation until a maverick cop named Sardaar Gabbar Singh came along."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZjEzYTY4YzQtNzc2Ny00ZjdlLWI5YjctYzMzMmFkYjcwOTcwXkEyXkFqcGdeQXVyMjA5NDExMTM@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime"],
+      "imdbid": "tt3740118",
+      "title": "Shankara",
+      "imdbrating": 5.2,
+      "released": 2016,
+      "type": "movie",
+      "synopsis": "A college student unwittingly takes part in a crime that changes the course of his life."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNzcxMjk3MjUtNmMzMS00NDk5LWExNWEtOWI5ODcxYzE2MThlXkEyXkFqcGdeQXVyNjc0NjM4NjY@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Crime"],
+      "imdbid": "tt5782262",
+      "title": "Gaddam Gang",
+      "imdbrating": 5.5,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "Dasu and his gang of newbies, kimdbidnaps a rich politician's son to extract money from him, with his new-found uncanny rules of kimdbidnapping. All his plannings go haywire when an insane cop is brought to handle the case."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMzVjNjE1ZTMtNjJlZi00OGU0LTlkZGYtYmNlOTkwZjg5MzAwXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt5191308",
+      "title": "Sher",
+      "imdbrating": 5,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "A working-class hero with the heart of a tiger rubs a gangster the wrong way; the two struggle for dominance for the duration of the movie."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BODBmNjYwOTAtNTE4MS00NjcyLTg4MzctNjIwZmY2ZGFhNzBhXkEyXkFqcGdeQXVyODk4ODEyMjk@._V1_UY268_CR7,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt4995748",
+      "title": "Paayum Puli",
+      "imdbrating": 6,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "A cop mistakenly believes that taking out three thugs will end Madurai's crime wave."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTQ5Mjc0MzItOTI3ZS00ZmU0LWExZDQtZDQ0MzA5ZTc4NjhkXkEyXkFqcGdeQXVyODEzOTQwNTY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt4937812",
+      "title": "Thoongaavanam",
+      "imdbrating": 7,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "A cop with a connection to the criminal underworld finds his secret life exposed when he and his partner are caught stealing cocaine from a powerful drug dealer, a move that puts his son's life in jeopardy."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOGIzNmM3YmItMTA0My00YjYwLTk2MDQtOTJiMzgxNjZhZDVmXkEyXkFqcGdeQXVyNTE0NDY5Njc@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Romance"],
+      "imdbid": "tt4801682",
+      "title": "Tiger",
+      "imdbrating": 5.4,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "Tiger, an aggressive young man, can do just about anything for his best friend Vishnu. When Vishnu falls in love with Ganga, the lives of the lovers are in danger. Will Tiger be able to save them?"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZmNhNDM4NjktYTdiOC00MDk1LTliNTEtZTY3YzIwMjMxZThkXkEyXkFqcGdeQXVyNjA1Nzc3NzQ@._V1_UY268_CR55,0,182,268_AL__QL50.jpg",
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt4701630",
+      "title": "Mosagallaku Mosagadu",
+      "imdbrating": 5.3,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "Revolves around god statues stealing issues in India."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNmNkNmY2NWYtMTlmMy00Y2E2LWJiZTktNWMwMDI5NTkyYWRkXkEyXkFqcGdeQXVyMjM2Mjc3OTA@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Crime"],
+      "imdbid": "tt4614082",
+      "title": "Intelligent imdbidiots",
+      "imdbrating": 5.1,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNDg5YjdhMzctMjU0YS00MDYwLWFjMDktNDUyOTdkZjk0YmRiXkEyXkFqcGdeQXVyMTA5MjExMzI@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Comedy", "Crime", "Drama"],
+      "imdbid": "tt4479870",
+      "title": "Bandipotu",
+      "imdbrating": 6.2,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "A woman with the help of a con man avenges her father's backstabbers."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMDJkZjExZjYtMTc5NC00MjZhLTk5ODQtODAxMmMyNTk4MGU3XkEyXkFqcGdeQXVyNjQ3ODkxMjE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt4442758",
+      "title": "Temper",
+      "imdbrating": 7.4,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "Daya, a corrupt police officer, finds his life changing when he takes on a case of gang rape."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNDA2Y2UwMGEtZjNhYS00MGYxLWI3MTQtODI2NmQxMTVmMjE5XkEyXkFqcGdeQXVyODA2ODM3NDQ@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt4384242",
+      "title": "Pataas",
+      "imdbrating": 6.7,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "A corrupt cop gets himself transferred to Hyderabad where he has a change of heart while trying to teach his estranged but dutiful father a lesson."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZDlhZjBjNTUtZTA5OC00MDgyLTkxNTQtY2VlZGYyNmQxNzE1XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR7,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt4258292",
+      "title": "Yennai Arindhaal",
+      "imdbrating": 7.3,
+      "released": 2015,
+      "type": "movie",
+      "synopsis": "Sathyadev, a sincere police officer, tries to stop an organ trafficking racket. But he is unaware that the man performing the illegal trade is the same person who killed his beloved."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZDRiMzU2ZDUtOTViZC00ZDU5LWE0MzQtYmM5ZDQ2N2FiZDE0XkEyXkFqcGdeQXVyNTM3MDMyMDQ@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Crime", "Drama"],
+      "imdbid": "tt7959910",
+      "title": "Oka Criminal Prema Katha",
+      "imdbrating": 8.5,
+      "released": 2014,
+      "type": "movie",
+      "synopsis": "Oka Criminal Prema Katha shows how an innocent boy Srinu (Manoj Nandan) turns into a criminal for the sake of his love Bindu (Priyanka Pallavi). Bindu who is financially weak moves to her ..."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYjNlZmQwM2YtNmEzNC00ZWNmLTgzODYtYWE3ZmQ3ODkwOTE2XkEyXkFqcGdeQXVyNjgyNTY1MjI@._V1_UY268_CR25,0,182,268_AL_.jpg",
+      "genre": ["Crime"],
+      "imdbid": "tt5954698",
+      "title": "Oka Romantic Crime Katha",
+      "imdbrating": 8.4,
+      "released": 2014,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMzEzM2VkOTEtNWZmNC00MWE5LTk2NTAtYWU3NWVkZmI1NTZjXkEyXkFqcGdeQXVyNDY5MTUyNjU@._V1_UY268_CR3,0,182,268_AL__QL50.jpg",
+      "genre": ["Action", "Comedy", "Crime"],
+      "imdbid": "tt3949638",
+      "title": "Power",
+      "imdbrating": 5.9,
+      "released": 2014,
+      "type": "movie",
+      "synopsis": "Ravi Teja plays a young man desperate to become a police officer. He winds up getting embroiled in a plot to pose as his lookalike in order to re-capture an infamous criminal from rogue cops."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMjE3NTc3ODUyMF5BMl5BanBnXkFtZTgwNDAzMTg3NjE@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Crime", "Thriller"],
+      "imdbid": "tt3949630",
+      "title": "Anukshanam",
+      "imdbrating": 5.8,
+      "released": 2014,
+      "type": "movie",
+      "synopsis": "Based on real-life events, this crime thriller traces the terrible trail left by a serial rapist and killer, highlighting the ensuing media coverage, public panic and one police officer's personal crusade to capture the psychopath."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMTU5MjE1NTExMF5BMl5BanBnXkFtZTgwODA4NjcxMjE@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "imdbid": "tt3810932",
+      "title": "Drushyam",
+      "imdbrating": 8.3,
+      "released": 2014,
+      "type": "movie",
+      "synopsis": "Rambabu (Venkatesh Daggubati), a cable operator, tries to protect his family from paying the price for their accimdbidental crime."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMzVjMGJjN2UtNzhjMy00MmI3LWIyNmQtNzBiMWI2MTQ4YjRlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_UY268_CR0,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Drama"],
+      "imdbid": "tt3657434",
+      "title": "Rowdy",
+      "imdbrating": 5.6,
+      "released": 2014,
+      "type": "movie",
+      "synopsis": "Anna rules over his people in Rayalaseema and they revere him as God. When an upcoming project threatens the well- being of his people, Anna opposes it. In the bargain, he earns some dangerous enemies."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYmE3YWNkMTMtMjJiZS00MjA3LWJkZDItNDE3M2FiZDkwYjkyXkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR9,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt3563156",
+      "title": "Anjaan",
+      "imdbrating": 5.3,
+      "released": 2014,
+      "type": "movie",
+      "synopsis": "Raju Bhai and Chandru head a thriving gang dismantling everyone coming their way. However when their success reaches the dreaded Imran, their lives take a turn."
+    }
+  ]
+}

@@ -1,0 +1,184 @@
+{
+  "Thriller": [
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMTZiMjk0OTctZTA0My00MjExLWE1MjUtMWNiNGU4MWZhMmE3XkEyXkFqcGdeQXVyNzAyMzcyODY@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt8302382",
+      "title": "Krack",
+      "imdbrating": 7.2,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMzk1MWM0MmEtZTljMy00Yzg4LWJhMWEtZTNhMmM0NGYyODkyXkEyXkFqcGdeQXVyOTExMTM0MDE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Thriller"],
+      "imdbid": "tt12071618",
+      "title": "Ee Kathalo Paathralu Kalpitam",
+      "imdbrating": 6.9,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BN2U0NGI4NTktZTQ2Ny00ZjlkLWE3MmEtYjZkOGExNDNkNGIyXkEyXkFqcGdeQXVyNjA1Nzc3NzQ@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "imdbid": "tt11773456",
+      "title": "Naandhi",
+      "imdbrating": 8.3,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMDg4ZDA4YmQtZmU1NS00MzZjLTlkY2YtYTIzNmU4YjM4MjlkXkEyXkFqcGdeQXVyNDc4NDU5OTg@._V1_UY268_CR7,0,182,268_AL_.jpg",
+      "genre": ["Action", "Drama", "Thriller"],
+      "imdbid": "tt11640108",
+      "title": "Mirugaa",
+      "imdbrating": 4.9,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "The film revolves around a maneater tiger who has gone berzerk and is no attacking people in imdbiduppanai, Kotagiri. While the forest officials are searching for the tiger, strange events happen in the forest."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BN2Y2YTVkOTQtODE0Ni00MTkwLTg0N2MtMGEwODU4NjBmM2U3XkEyXkFqcGdeQXVyODc4Mzk3Mjg@._V1_UY268_CR5,0,182,268_AL_.jpg",
+      "genre": ["Crime", "Drama", "Thriller"],
+      "imdbid": "tt11306488",
+      "title": "Kapatadhaari",
+      "imdbrating": 6.4,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "Gowtham, a traffic cop, investigates an unsolved murder case from the past that is out of his jurisdiction"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BMjE3ZGM0N2MtMWE5ZS00MDZmLTgwZjQtMGNiNmY5NmU1NGQ4XkEyXkFqcGdeQXVyNjgxNzE1MDk@._V1_UY268_CR43,0,182,268_AL_.jpg",
+      "genre": ["Thriller"],
+      "imdbid": "tt9277948",
+      "title": "Akshara",
+      "imdbrating": 5.6,
+      "released": 2021,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNWUxNjY4MjYtZjI0Mi00OTNiLWJlNDktYjUwYjBmNjFlYmU1XkEyXkFqcGdeQXVyMjEyMDE4ODk@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Family", "Thriller"],
+      "imdbid": "tt12503708",
+      "title": "A (Ad Infinitum)",
+      "released": 2021,
+      "type": "movie",
+      "synopsis": "",
+      "imdbrating": 8.2
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYjk0NWY0MDgtNmI2OC00OGEwLTllYjctNmU0YzRhNDM5Mjg3XkEyXkFqcGdeQXVyNzgxMjUzNzk@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Mystery", "Thriller"],
+      "imdbid": "tt9612136",
+      "title": "Madha",
+      "imdbrating": 5.2,
+      "released": 2020,
+      "synopsis": "MADHA is a Sanskrit term which means \"insanity personified\". MADHA is a female-centered psychological thriller that revolves around a small-time proofreader Nisha.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BN2Y2YTVkOTQtODE0Ni00MTkwLTg0N2MtMGEwODU4NjBmM2U3XkEyXkFqcGdeQXVyODc4Mzk3Mjg@._V1_UY268_CR5,0,182,268_AL_.jpg",
+      "genre": ["Horror", "Mystery", "Thriller"],
+      "imdbid": "tt9605894",
+      "title": "Nishabdham",
+      "imdbrating": 5.7,
+      "released": 2020,
+      "synopsis": "Nishabdham is the story of Sakshi, an artist with speech impairment and Anthony who is a celebrity musician. How the two come together and what transpires from there is what forms the crux of this beautiful story.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNmY0M2ZiYzktM2EzMy00NWFlLTg2MWMtMjVjMDExOTI0NTc2XkEyXkFqcGdeQXVyNDc2NzU1MTA@._V1_UY268_CR127,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Thriller"],
+      "imdbid": "tt11767552",
+      "title": "O Pitta Katha",
+      "imdbrating": 7,
+      "released": 2020,
+      "synopsis": "Two men fall deeply in love with the same woman but when she suddenly gets kimdbidnapped they get involved in the case to rescue her.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNTBhMzM3NWQtZTI3ZC00MjkxLTljOWItNzEzNTQ0MzIxOTNhXkEyXkFqcGdeQXVyNTM0MDc1ODE@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Romance", "Thriller"],
+      "imdbid": "tt11581190",
+      "title": "Degree College",
+      "imdbrating": 4,
+      "released": 2020,
+      "synopsis": "Parvati is the daughter of police and Shiva, a guy from the lower caste falls for her. As usual, the girl's family is against her love and hence she gets out of her house and marries Shiva....",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNWE3ZTc1ZjItNWIyMy00Njk4LWJkNjQtNTgzMjg3NmIzNzRlXkEyXkFqcGdeQXVyNjU0Nzg1NzY@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt11430262",
+      "title": "Aswathama",
+      "imdbrating": 6.5,
+      "released": 2020,
+      "synopsis": "A man works to uncover the details behind a series of crimes targeting women.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOTdjMGExY2QtMTgzYy00ODlkLThkZWQtZGZiNjc1MTRmOTIxXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR4,0,182,268_AL_.jpg",
+      "genre": ["Action", "Crime", "Thriller"],
+      "imdbid": "tt11385128",
+      "title": "V",
+      "imdbrating": 7,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": ""
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BZTNlNzRjMjItZGFiZC00YWYxLWEwNmQtOTI0ZWJiNzk1Zjg0XkEyXkFqcGdeQXVyODE5NzE3OTE@._V1_UY268_CR1,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Mystery", "Thriller"],
+      "imdbid": "tt11323316",
+      "title": "Penguin",
+      "imdbrating": 4.6,
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "It is a spine chilling tale of a pregnant mother who sets out on a dangerous mission to unravel the mystery and save her loved ones."
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BOWRjMTY2YzYtMDRhMi00MTFlLWI5YmYtNjdiZTI2NjZiZDg1XkEyXkFqcGdeQXVyODk4NzY2NzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
+      "genre": ["Thriller"],
+      "imdbid": "tt11041466",
+      "title": "Oka Chinna Viramam",
+      "imdbrating": 6.4,
+      "released": 2020,
+      "synopsis": "Deepak is a businessman immensely in love with his pregnant wife Sameera . But when his imdbidea of raising profits for his business puts her in trouble, he teams up with Balu (Naveen Neni) and Maya to save her.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNWUxNjY4MjYtZjI0Mi00OTNiLWJlNDktYjUwYjBmNjFlYmU1XkEyXkFqcGdeQXVyMjEyMDE4ODk@._V1_UY268_CR3,0,182,268_AL_.jpg",
+      "genre": ["Thriller"],
+      "imdbid": "tt10768548",
+      "title": "Raahu",
+      "imdbrating": 6.4,
+      "released": 2020,
+      "synopsis": "Bhanu suffers from 'conversion disorder a.k.a hysterical blindness' where she goes temporarily blind under severe stress, in her case triggered upon seeing blood, must fight her enemy who inflicts more bloodshed than she ever imagined.",
+      "type": "movie"
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BNGJlMDM4MGYtZTkwOS00OWQyLWFmNzAtNDMyNjNmMTQwYjMyXkEyXkFqcGdeQXVyMTE2MTc3MzU1._V1_UY268_CR43,0,182,268_AL_.jpg",
+      "genre": ["Mystery", "Thriller"],
+      "imdbid": "tt12381488",
+      "title": "Run",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "On their wedding anniversary Sundeep is waiting at a restaurant for his wife Shruti to arrive. But in a shocking turn of events, she is dead. Is it a murder or a suicimdbide?",
+      "imdbrating": 4.8
+    },
+    {
+      "imageurl": "https://m.media-amazon.com/images/M/MV5BYWM0NWU4N2ItMzllNS00YjExLTkxNWUtNjQ0NTY1MDgwNTFiXkEyXkFqcGdeQXVyNzgwOTYzNDY@._V1_UY268_CR194,0,182,268_AL_.jpg",
+      "genre": ["Drama", "Mystery", "Thriller"],
+      "imdbid": "tt8004570",
+      "title": "47 Days: The Mystery Unfolds",
+      "released": 2020,
+      "type": "movie",
+      "synopsis": "Satya, a Suspended Cop, who lost his wife in mysterious circumstances, unexpectedly gets hold of a case which relates to his wife's death. He's starts investigating which eventually hunts ...",
+      "imdbrating": 5.3
+    }
+  ]
+}
