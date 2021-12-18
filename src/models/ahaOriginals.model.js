@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 
 const ahaOriginalsSchema = new mongoose.Schema(
   {
-    image: { type: String },
+    imageurl: { type: String },
     genre: { type: String },
     imdbid: { type: String },
     title: { type: String },
