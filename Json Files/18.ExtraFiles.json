@@ -8,9 +8,8 @@
       "metaData": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/MetaData/colorPhoto_metadata.png?raw=true",
       "description": " A love story between Jaya Krishna and Deepti, set in the late 1990s, comes alive in this periodic drama",
       "main_bg": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/cover/colorPhoto.jpg?raw=true",
-      "tags": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/tags.svg",
+      "tags": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Tags/colorPhoto.png?raw=true",
       "play": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/Startwatcing.svg",
-      "watchlist_tile": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/ca3237588afaca2d315ed66e2e1777e1c6992585/watchPage/watch-page/src/media/watchlist_show1.svg",
       "tile_name": "Color Photo",
       "cast": [
         {
@@ -185,30 +184,29 @@
       "metaData": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/MetaData/shitHappens_metaData.png?raw=true",
       "description": "Unable to take the constant humiliation from collegemates who call them dry batch, three friends – Harsha, Sameer and Sathvik – hire a hooker to prove their cool quotient. Things take an unexpected turn when she dies...",
       "main_bg": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/cover/shitHappens.png?raw=true",
-      "tags": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/tags.svg",
+      "tags": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Tags/shitHappens.png?raw=true",
       "play": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/12bcb804ad550e2124c4633c969f1c2e06597f57/watchPage/watch-page/src/media/Startwatcing.svg",
-      "watchlist_tile": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/ca3237588afaca2d315ed66e2e1777e1c6992585/watchPage/watch-page/src/media/watchlist_show1.svg",
       "tile_name": "Shit happens",
       "cast": [
         {
-          "name": "1. Hooker??",
-          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+          "name": "Sanjjana Galrani",
+          "pic": "https://bioofy.com/wp-content/uploads/2020/10/Shit-Happens.jpg"
         },
         {
-          "name": "2. Shit Happened",
-          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+          "name": "Gundu Boss",
+          "pic": "https://cdn.celpox.com/bby_uploads/celeb/b826cd3a7549541e9637258e65b9afce.jpg"
         },
         {
-          "name": "3. Escaped",
-          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+          "name": "Pruthvi Raj",
+          "pic": "https://imageory.clapnumber.com/albums/medium/1626103162_Sameer_Malla.jpg"
         },
         {
-          "name": "4. Jaammmmmm",
-          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+          "name": "Albart",
+          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGBJA8u9DJpFxFcKlSrwKzhySqRQFiFxQfUw&usqp=CAU"
         },
         {
-          "name": "5. Chalo bangkok",
-          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr38wQMij1VgwvbYxeURkehPjY3XQWaxGhSw1ELRJ5HnXrEg-WTQ1JBaz5SclWDBqwh6I&usqp=CAU"
+          "name": "Ishan Signh",
+          "pic": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0aU0NyMrdtuMp7XEwD-0MeAFR24XDSE9zjg&usqp=CAU"
         }
       ],
       "Similar": [
@@ -375,31 +373,31 @@
       ],
       "episodes": [
         {
-          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "banner_img": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Episodes/ShitHappens/hooker.png?raw=true",
           "ep_title": "1. Hooker??",
           "duration": "24min",
           "description": "College buddies Harsha, Sameer and Sathvik realize on their convocation day that they haven’t lived life fully. They decide to take the wild route of hiring a hooker to officially come of age!"
         },
         {
-          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "banner_img": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Episodes/ShitHappens/shitHappened.png?raw=true",
           "ep_title": "2. Shit Happened",
           "duration": "21min",
           "description": "The trio is exploring ways to hire a hooker. Harsha’s cousin gives them tips on how to do it. They succeed, but the hooker unexpectedly dies."
         },
         {
-          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "banner_img": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Episodes/ShitHappens/escaped.png?raw=true",
           "ep_title": "3. Escaped",
           "duration": "16min",
           "description": "A plan is being hatched to escape from the complex scenario. Harsha, Sameer and Sathvik manage to sneak out with the hooker’s body, which they plan to dispose."
         },
         {
-          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "banner_img": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Episodes/ShitHappens/jammmmm.png?raw=true",
           "ep_title": "4. Jaammmmmm",
           "duration": "18min",
           "description": "On their way to dispose off the dead body, the three friends are stopped by a cop who asks them for a lift. They stop at a dhaba for a break and the police unexpectedly drives away with the hooker in the car!"
         },
         {
-          "banner_img": "https://raw.githubusercontent.com/aniketT23/Aha-Clone/f833738fbdcb53eb75630a74d97bfabf31150f2d/watchPage/watch-page/src/media/episodecard.svg",
+          "banner_img": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Episodes/ShitHappens/chaloBanckok.png?raw=true",
           "ep_title": "5. Chalo Bangkok",
           "duration": "14min",
           "description": "The policeman crashes the car that he ran away with and is afraid that he has killed the hooker. But the three friends arrive to unwittily confessing of their crime. The police immediately starts blackmailing them and unexpected things shock everyone."
