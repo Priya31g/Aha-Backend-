@@ -2,7 +2,7 @@
   {
     "_id": "61bdea35e26140757605d888",
     "genre": [],
-    "title": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Title/Color%20photo.png?raw=true",
+    "imageurl": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/poster/colorPhoto.png?raw=true",
     "categories": "movie",
     "premium": "true",
     "metaData": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/MetaData/colorPhoto_metadata.png?raw=true",
@@ -199,7 +199,7 @@
   {
     "_id": "61be05b5e26140757605d89e",
     "genre": [],
-    "title": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/Title/shit%20happens.png?raw=true",
+    "imageurl": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/poster/shitHappens.jpg?raw=true",
     "categories": "shows",
     "premium": "true",
     "metaData": "https://github.com/thakoorchandan/Aha-Backend-/blob/master/images/MetaData/shitHappens_metaData.png?raw=true",
@@ -537,160 +537,6 @@
     "imdbrating": 5.7,
     "released": 2020,
     "synopsis": "Raju who rents his Badshah for weddings, meets Baagi who has been in quench of real love after her step-parents try to get her married against her wish. How did she escape that marriage is the crux of the story.",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9e1",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BNzQxNjc5YTUtNjViNy00YTA2LThmMGEtOTg3NTc1ZmIyYjAyXkEyXkFqcGdeQXVyNzExNjE3NDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
-    "genre": ["Action"],
-    "imdbid": "tt10852008",
-    "title": "Balakot: the true ",
-    "imdbrating": 6.8,
-    "released": 2020,
-    "synopsis": "Film on Balakot air strikes 2019.",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9e6",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BOTI4YmJjNzktNTMzNC00MzRlLTk3NmEtZWQ3ZjRkODZkMDdmXkEyXkFqcGdeQXVyMTE2MTc3MzU1._V1_UY268_CR43,0,182,268_AL_.jpg",
-    "genre": ["Drama"],
-    "imdbid": "tt12393378",
-    "title": "Coronavirus",
-    "imdbrating": 5.6,
-    "released": 2020,
-    "synopsis": "",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9e5",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BMzNmN2ZhZWMtYTM1NC00Y2VlLThhMDYtY2M3NzdiYmQ4ZTU3XkEyXkFqcGdeQXVyOTIzMTY3NTM@._V1_UY268_CR9,0,182,268_AL_.jpg",
-    "genre": ["Action", "Comedy", "Crime"],
-    "imdbid": "tt12369428",
-    "title": "Raju Gari Kidnap",
-    "imdbrating": 7,
-    "released": 2020,
-    "synopsis": "A desperate filmmaker Aravind, who just broke up with his girl kidnaps a film producer to narrate a film story, as he doesn't have any choice. How he able to convince him to make the film ...",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9e8",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BMjYyOGUxNTUtYjVmZC00OWE4LWJmYzktMDVmNGYyMDMzNzUzXkEyXkFqcGdeQXVyNTgxODY5ODI@._V1_UY268_CR3,0,182,268_AL_.jpg",
-    "genre": ["Drama"],
-    "imdbid": "tt11506054",
-    "title": "Uma Maheswara Ugra Roopasya",
-    "imdbrating": 7.8,
-    "released": 2020,
-    "synopsis": "Mahesh, a photographer, gets beaten up by a stranger when he tries to solve an issue in his village. He sets out to take revenge on the stranger as he feels insulted after the incident.",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9e7",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BNzQxNjc5YTUtNjViNy00YTA2LThmMGEtOTg3NTc1ZmIyYjAyXkEyXkFqcGdeQXVyNzExNjE3NDg@._V1_UX182_CR0,0,182,268_AL_.jpg",
-    "genre": ["Drama", "Mystery"],
-    "imdbid": "tt10801230",
-    "title": "IIT Krishnamurthy",
-    "imdbrating": 6,
-    "released": 2020,
-    "synopsis": "Krishnamurthy Who Is An IIT BOMBAY Student Comes To Hyderabad And Gets To Know That His Uncle Is Missing. Entire Story Revolves Around The Mysterious Missing Case Of Krishnamurthy's Uncle.",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9e3",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BODllNjZkODEtMGRkNS00YWQzLTg3MTYtMzg2N2U0ODI0Zjk0XkEyXkFqcGdeQXVyOTk3NTc2MzE@._V1_UY268_CR3,0,182,268_AL_.jpg",
-    "genre": ["Action", "Comedy", "Drama"],
-    "imdbid": "tt10773090",
-    "title": "Sarileru Neekevvaru",
-    "imdbrating": 6,
-    "released": 2020,
-    "synopsis": "A tough army major is deployed to Kurnool on a mission to keep the country safe from external threats.",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9e4",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BZDBmM2Q1MjQtNTljMy00NzBhLTlhNmItNGQ2Mjk2YWRjMmRkXkEyXkFqcGdeQXVyNjU0Nzg1NzY@._V1_UX182_CR0,0,182,268_AL_.jpg",
-    "genre": ["Action", "Drama"],
-    "imdbid": "tt10682062",
-    "title": "Palasa 1978",
-    "imdbrating": 7.4,
-    "released": 2020,
-    "synopsis": "Mohan Rao and his elder brother face Pedda Shavukar and Chinna Shavukar, a political battle where low caste fights the high caste power.",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9ed",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BNjUzYTY4ZjgtMmEwMS00OTUzLTk4MDUtYjc5MWIzYWMyMDA5XkEyXkFqcGdeQXVyMTIyNjk5MTE3._V1_UY268_CR43,0,182,268_AL_.jpg",
-    "genre": ["Drama"],
-    "imdbid": "tt12826550",
-    "title": "Bucchi Naidu Kandriga",
-    "imdbrating": 6.5,
-    "released": 2020,
-    "synopsis": "Childhood sweethearts Balu and Swapna find their relationship in grave hurdles after facing strong opposition from their families due to their differing social status. In a bid to unite ...",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9eb",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BYWM0NWU4N2ItMzllNS00YjExLTkxNWUtNjQ0NTY1MDgwNTFiXkEyXkFqcGdeQXVyNzgwOTYzNDY@._V1_UY268_CR194,0,182,268_AL_.jpg",
-    "genre": ["Drama", "Mystery", "Thriller"],
-    "imdbid": "tt8004570",
-    "title": "47 Days: The Mystery Unfolds",
-    "imdbrating": 5.3,
-    "released": 2020,
-    "synopsis": "Satya, a Suspended Cop, who lost his wife in mysterious circumstances, unexpectedly gets hold of a case which relates to his wife's death. He's starts investigating which eventually hunts ...",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9ec",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BODVmN2IyNjUtMjIwOC00MzhlLThiYjgtMTI2MDFhMmFhMjFjXkEyXkFqcGdeQXVyMTIxMTE1NDgx._V1_UY268_CR222,0,182,268_AL_.jpg",
-    "genre": ["Action", "Comedy", "Sci-Fi"],
-    "imdbid": "tt12723616",
-    "title": "BomBhaat",
-    "imdbrating": 6.2,
-    "released": 2020,
-    "synopsis": "An extremely unfortunate guy battling his destiny, stuck in a Love triangle, gets entangled in a decades old revenge saga between his God Father and a Mad scientist chasing a dangerous and extremely powerful formula.",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9ea",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BYzU4NTU3N2QtOGY1Ni00ZTQwLWE1OTYtODVjNTgwZWIyZDA5XkEyXkFqcGdeQXVyMTIwODMzMzIz._V1_UY268_CR3,0,182,268_AL_.jpg",
-    "genre": ["Drama"],
-    "imdbid": "tt12675216",
-    "title": "Power Star",
-    "imdbrating": 6.2,
-    "released": 2020,
-    "synopsis": "",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9ef",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BOGI0NzI1YjctM2Q5Yi00NTgxLThlYjgtNTI4YjI0NjRhOWE0XkEyXkFqcGdeQXVyOTc2MTgwNjY@._V1_UX182_CR0,0,182,268_AL_.jpg",
-    "genre": ["Drama"],
-    "imdbid": "tt12839816",
-    "title": "Asalu Em Jarigindhante",
-    "imdbrating": 7.2,
-    "released": 2020,
-    "synopsis": "Vaasu and Saavi had been in deep love since childhood. They had an accident right before they got married. He lost his memory and not aware of what happened to Saavi. After this, Vaasu 's ...",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9ee",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BM2FhYjA3ZjktMTA4NC00OWNhLWE2NTEtMGNlMGNkMmNmNjExXkEyXkFqcGdeQXVyMTIyNjk5MTE3._V1_UY268_CR16,0,182,268_AL_.jpg",
-    "genre": ["Romance", "Thriller"],
-    "imdbid": "tt12827352",
-    "title": "Ee Rathri Ki Evaru",
-    "imdbrating": 6,
-    "released": 2020,
-    "synopsis": "It's the story about how an intellectual police officer investigates the mysterious death of Rini who is found dead after samyuktha's prank call.",
-    "type": "movie"
-  },
-  {
-    "_id": "61bd50ef4c9ef7767710f9e9",
-    "imageurl": "https://m.media-amazon.com/images/M/MV5BZTM1NGMzNTItZDI3Zi00YmNjLWE0MGEtODVhYmQ0ZmJiZWU4XkEyXkFqcGdeQXVyMTE2MTc3MzU1._V1_UY268_CR0,0,182,268_AL_.jpg",
-    "genre": ["Comedy", "Drama", "Romance"],
-    "imdbid": "tt12498582",
-    "title": "Bhanumathi & Ramakrishna",
-    "imdbrating": 7.1,
-    "released": 2020,
-    "synopsis": "Bhanumathi Ramakrishna is a romantic comedy which gives a glimpse into the lives of the two characters - Bhanumathi (played by Salony) and Ramakrishna (played by Naveen). Ramakrishna ...",
     "type": "movie"
   }
 ]
