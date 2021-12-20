@@ -16,7 +16,7 @@ const ahaRomance = require("./controllers/aha.controller");
 const ahaThriller = require("./controllers/aha.controller");
 const ahaTop10 = require("./controllers/aha.controller");
 const ahaUpcoming = require("./controllers/aha.controller");
-
+const ahaWatchlist = require("./controllers/aha.controller")
 const signup = require("./controllers/auth.controller");
 const signin = require("./controllers/auth.controller");
 
@@ -39,7 +39,7 @@ app.use("/aha", ahaRomance);
 app.use("/aha", ahaThriller);
 app.use("/aha", ahaTop10);
 app.use("/aha", ahaUpcoming);
-
+app.use("/aha",ahaWatchlist)
 app.use("/", signup);
 app.use("/", signin);
 

@@ -13,8 +13,28 @@ const AhaRomance = require("../models/ahaRomance.model");
 const AhaThriller = require("../models/ahaThriller.model");
 const AhaTop10 = require("../models/ahaTop10.model");
 const AhaUpcoming = require("../models/ahaUpcoming.model");
+const AhaWatchlist = require("../models/ahaWatchlist.model");
+
 const router = express.Router();
 
+router.post("/watchlist",async(req,res)=>{
+  const aha = await AhaWatchlist.create(req.body);
+  return res.status(200).send(aha);
+})
+router.get("/watchlist",async(req,res)=>{
+  const aha = await AhaWatchlist.find().lean().exec();
+  return res.status(200).send(aha);
+})
+router.get("/watchlist/:id",async(req,res)=>{
+  const aha = await AhaMostWatched.find({_id:req.params.id}).lean().exec();
+  return res.status(200).send(aha);
+})
+router.delete("/watchlist/:id",async(req,res)=>{
+  console.log(req.params.id)
+  const aha = await AhaWatchlist.findByIdAndDelete(req.params.id);
+ // console.log(aha)
+  return res.status(200).send(aha);
+})
 // Get --- Aha Originals
 router.get("/originals", async (req, res) => {
   const ahaOriginals = await AhaOriginals.find().lean().exec();
