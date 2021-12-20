@@ -3,7 +3,7 @@ require("dotenv").config();
 
 const connect = () => {
   return mongoose.connect(
-    `mongodb+srv://ahaTeam:${process.env.CLOUDKEY}@cluster0.vjrxb.mongodb.net/Aha?retryWrites=true&w=majority`
+    `mongodb+srv://ahaTeam:ahaTeam6@cluster0.vjrxb.mongodb.net/Aha?retryWrites=true&w=majority`
   );
 };
 
