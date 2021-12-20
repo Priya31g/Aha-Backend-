@@ -45,8 +45,8 @@ app.use("/", signin);
 
 const start = async () => {
   await connect();
-
-  app.listen(`${process.env.PORT}||2233`, () => {
+var PORT = process.env.PORT|| 2233;
+  app.listen(PORT, () => {
     console.log("Listening on port 2233");
   });
 };
